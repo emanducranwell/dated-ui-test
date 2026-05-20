@@ -2,60 +2,7 @@
 <html>
 <head>
   <title>Dated Discover</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 700px;
-      margin: 40px auto;
-      padding: 20px;
-      text-align: center;
-    }
-
-    .card {
-      margin: 24px auto;
-      padding: 24px;
-      background: #f3f3f3;
-      border-radius: 12px;
-      max-width: 420px;
-      position: relative;
-    }
-
-    img {
-      width: 100%;
-      max-height: 320px;
-      object-fit: contain;
-      margin: 20px 0;
-    }
-
-    h2 {
-      color: #8b2f00;
-      text-transform: uppercase;
-    }
-
-    .buttons {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-top: 24px;
-    }
-
-    .circle-button {
-      width: 90px;
-      height: 90px;
-      border-radius: 50%;
-      background: #8b2f00;
-      color: white;
-      border: none;
-      cursor: pointer;
-      font-size: 13px;
-    }
-
-    .details {
-      color: #8b2f00;
-      font-size: 14px;
-      text-transform: uppercase;
-    }
-  </style>
+  <link rel="stylesheet" href="{{ url_for('static', filename='discover.css') }}">
 </head>
 <body>
   <h1>Dated Object Chat</h1>

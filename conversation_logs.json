@@ -1,0 +1,1427 @@
+[
+  {
+    "timestamp": "2026-05-14T00:24:54.394171",
+    "museum_number": "1843,0531.26",
+    "object_name": "The Parthenon Sculptures",
+    "visitor_question": "What culture are you from?\r\n",
+    "response": "",
+    "retrieved_metadata": [
+      {
+        "object_group": "acroterion",
+        "culture": "Classical Greek",
+        "object_name": "The Parthenon Sculptures",
+        "museum_number": "1843,0531.26",
+        "materials": "marble",
+        "object_type": "acroterion (object name)",
+        "chunk_type": "core_facts",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "production_date": "447BC-432BC"
+      },
+      {
+        "object_group": "acroterion",
+        "materials": "marble",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "chunk_type": "context",
+        "culture": "Classical Greek",
+        "object_name": "The Parthenon Sculptures",
+        "object_type": "acroterion (object name)",
+        "museum_number": "1843,0531.26",
+        "production_date": "447BC-432BC"
+      },
+      {
+        "object_group": "acroterion",
+        "museum_number": "1843,0531.26",
+        "chunk_type": "description",
+        "culture": "Classical Greek",
+        "materials": "marble",
+        "production_date": "447BC-432BC",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "object_type": "acroterion (object name)",
+        "object_name": "The Parthenon Sculptures"
+      }
+    ],
+    "retrieved_chunks": [
+      "Object type: acroterion (object name)\nMuseum number: 1843,0531.26\nTitle: The Parthenon Sculptures\nCulture: Classical Greek\nProduction date: 447BC-432BC\nFind spot: Excavated/Findspot: Parthenon\nMaterials: marble\nDimensions: 25.40 centimetres\nLocation: On display (Room 18a - Greece: Parthenon)\nDept: Greek and Roman",
+      "Producer name: Designed by: Pheidias\nAcq name (acq): Purchased from: Henry William Inwood\nAcq name (previous): Purchased from: Henry William Inwood\nAcq date: 1843\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum",
+      "Description: Fragment of a marble acroterion from the Parthenon."
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T12:24:01.478499",
+    "museum_number": "1843,0531.26",
+    "object_name": "The Parthenon Sculptures",
+    "visitor_question": "What culture are you from?\r\n",
+    "response": "I went quiet there \u2014 the model returned an empty response. Try asking again.",
+    "retrieved_metadata": [
+      {
+        "chunk_type": "core_facts",
+        "object_group": "acroterion",
+        "museum_number": "1843,0531.26",
+        "materials": "marble",
+        "object_type": "acroterion (object name)",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "object_name": "The Parthenon Sculptures",
+        "production_date": "447BC-432BC",
+        "culture": "Classical Greek"
+      },
+      {
+        "chunk_type": "context",
+        "object_type": "acroterion (object name)",
+        "culture": "Classical Greek",
+        "object_group": "acroterion",
+        "object_name": "The Parthenon Sculptures",
+        "museum_number": "1843,0531.26",
+        "production_date": "447BC-432BC",
+        "materials": "marble",
+        "location": "On display (Room 18a - Greece: Parthenon)"
+      },
+      {
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "museum_number": "1843,0531.26",
+        "materials": "marble",
+        "object_group": "acroterion",
+        "object_type": "acroterion (object name)",
+        "chunk_type": "description",
+        "object_name": "The Parthenon Sculptures",
+        "culture": "Classical Greek",
+        "production_date": "447BC-432BC"
+      }
+    ],
+    "retrieved_chunks": [
+      "Object type: acroterion (object name)\nMuseum number: 1843,0531.26\nTitle: The Parthenon Sculptures\nCulture: Classical Greek\nProduction date: 447BC-432BC\nFind spot: Excavated/Findspot: Parthenon\nMaterials: marble\nDimensions: 25.40 centimetres\nLocation: On display (Room 18a - Greece: Parthenon)\nDept: Greek and Roman",
+      "Producer name: Designed by: Pheidias\nAcq name (acq): Purchased from: Henry William Inwood\nAcq name (previous): Purchased from: Henry William Inwood\nAcq date: 1843\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum",
+      "Description: Fragment of a marble acroterion from the Parthenon."
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T12:24:23.293050",
+    "museum_number": "1843,0531.26",
+    "object_name": "The Parthenon Sculptures",
+    "visitor_question": "Where are you from?",
+    "response": "I went quiet there \u2014 the model returned an empty response. Try asking again.",
+    "retrieved_metadata": [
+      {
+        "object_group": "acroterion",
+        "object_name": "The Parthenon Sculptures",
+        "culture": "Classical Greek",
+        "object_type": "acroterion (object name)",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "materials": "marble",
+        "chunk_type": "description",
+        "production_date": "447BC-432BC",
+        "museum_number": "1843,0531.26"
+      },
+      {
+        "materials": "marble",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "chunk_type": "context",
+        "production_date": "447BC-432BC",
+        "museum_number": "1843,0531.26",
+        "culture": "Classical Greek",
+        "object_name": "The Parthenon Sculptures",
+        "object_group": "acroterion",
+        "object_type": "acroterion (object name)"
+      },
+      {
+        "object_group": "acroterion",
+        "production_date": "447BC-432BC",
+        "chunk_type": "core_facts",
+        "object_type": "acroterion (object name)",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "materials": "marble",
+        "object_name": "The Parthenon Sculptures",
+        "culture": "Classical Greek",
+        "museum_number": "1843,0531.26"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Fragment of a marble acroterion from the Parthenon.",
+      "Producer name: Designed by: Pheidias\nAcq name (acq): Purchased from: Henry William Inwood\nAcq name (previous): Purchased from: Henry William Inwood\nAcq date: 1843\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum",
+      "Object type: acroterion (object name)\nMuseum number: 1843,0531.26\nTitle: The Parthenon Sculptures\nCulture: Classical Greek\nProduction date: 447BC-432BC\nFind spot: Excavated/Findspot: Parthenon\nMaterials: marble\nDimensions: 25.40 centimetres\nLocation: On display (Room 18a - Greece: Parthenon)\nDept: Greek and Roman"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T12:31:22.263350",
+    "museum_number": "1843,0531.26",
+    "object_name": "The Parthenon Sculptures",
+    "visitor_question": "Where are you from?",
+    "response": "I went quiet there \u2014 the model returned an empty response. Try asking again.",
+    "retrieved_metadata": [
+      {
+        "materials": "marble",
+        "object_group": "acroterion",
+        "culture": "Classical Greek",
+        "museum_number": "1843,0531.26",
+        "object_name": "The Parthenon Sculptures",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "object_type": "acroterion (object name)",
+        "chunk_type": "description",
+        "production_date": "447BC-432BC"
+      },
+      {
+        "chunk_type": "context",
+        "materials": "marble",
+        "object_group": "acroterion",
+        "object_type": "acroterion (object name)",
+        "production_date": "447BC-432BC",
+        "culture": "Classical Greek",
+        "object_name": "The Parthenon Sculptures",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "museum_number": "1843,0531.26"
+      },
+      {
+        "museum_number": "1843,0531.26",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "production_date": "447BC-432BC",
+        "materials": "marble",
+        "object_type": "acroterion (object name)",
+        "object_group": "acroterion",
+        "object_name": "The Parthenon Sculptures",
+        "chunk_type": "core_facts",
+        "culture": "Classical Greek"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Fragment of a marble acroterion from the Parthenon.",
+      "Producer name: Designed by: Pheidias\nAcq name (acq): Purchased from: Henry William Inwood\nAcq name (previous): Purchased from: Henry William Inwood\nAcq date: 1843\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum",
+      "Object type: acroterion (object name)\nMuseum number: 1843,0531.26\nTitle: The Parthenon Sculptures\nCulture: Classical Greek\nProduction date: 447BC-432BC\nFind spot: Excavated/Findspot: Parthenon\nMaterials: marble\nDimensions: 25.40 centimetres\nLocation: On display (Room 18a - Greece: Parthenon)\nDept: Greek and Roman"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T12:31:39.171498",
+    "museum_number": "1843,0531.26",
+    "object_name": "The Parthenon Sculptures",
+    "visitor_question": "Where are you from?",
+    "response": "I went quiet there \u2014 the model returned an empty response. Try asking again.",
+    "retrieved_metadata": [
+      {
+        "chunk_type": "description",
+        "object_group": "acroterion",
+        "object_name": "The Parthenon Sculptures",
+        "materials": "marble",
+        "production_date": "447BC-432BC",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "museum_number": "1843,0531.26",
+        "culture": "Classical Greek",
+        "object_type": "acroterion (object name)"
+      },
+      {
+        "object_group": "acroterion",
+        "object_type": "acroterion (object name)",
+        "chunk_type": "context",
+        "materials": "marble",
+        "museum_number": "1843,0531.26",
+        "object_name": "The Parthenon Sculptures",
+        "culture": "Classical Greek",
+        "production_date": "447BC-432BC",
+        "location": "On display (Room 18a - Greece: Parthenon)"
+      },
+      {
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "object_name": "The Parthenon Sculptures",
+        "object_group": "acroterion",
+        "object_type": "acroterion (object name)",
+        "materials": "marble",
+        "production_date": "447BC-432BC",
+        "museum_number": "1843,0531.26",
+        "culture": "Classical Greek",
+        "chunk_type": "core_facts"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Fragment of a marble acroterion from the Parthenon.",
+      "Producer name: Designed by: Pheidias\nAcq name (acq): Purchased from: Henry William Inwood\nAcq name (previous): Purchased from: Henry William Inwood\nAcq date: 1843\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum",
+      "Object type: acroterion (object name)\nMuseum number: 1843,0531.26\nTitle: The Parthenon Sculptures\nCulture: Classical Greek\nProduction date: 447BC-432BC\nFind spot: Excavated/Findspot: Parthenon\nMaterials: marble\nDimensions: 25.40 centimetres\nLocation: On display (Room 18a - Greece: Parthenon)\nDept: Greek and Roman"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T12:34:58.703612",
+    "museum_number": "1843,0531.24",
+    "object_name": "The Parthenon Sculptures",
+    "visitor_question": "How old are you?",
+    "response": "I went quiet there \u2014 the model returned an empty response. Try asking again.",
+    "retrieved_metadata": [
+      {
+        "chunk_type": "core_facts",
+        "materials": "marble",
+        "object_name": "The Parthenon Sculptures",
+        "object_group": "antefix",
+        "culture": "Classical Greek",
+        "museum_number": "1843,0531.24",
+        "object_type": "antefix (object name)",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "production_date": "447BC-432BC"
+      },
+      {
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "object_type": "antefix (object name)",
+        "object_group": "antefix",
+        "production_date": "447BC-432BC",
+        "object_name": "The Parthenon Sculptures",
+        "museum_number": "1843,0531.24",
+        "materials": "marble",
+        "chunk_type": "description",
+        "culture": "Classical Greek"
+      },
+      {
+        "object_type": "antefix (object name)",
+        "culture": "Classical Greek",
+        "materials": "marble",
+        "chunk_type": "context",
+        "object_name": "The Parthenon Sculptures",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "object_group": "antefix",
+        "production_date": "447BC-432BC",
+        "museum_number": "1843,0531.24"
+      }
+    ],
+    "retrieved_chunks": [
+      "Object type: antefix (object name)\nMuseum number: 1843,0531.24\nTitle: The Parthenon Sculptures\nCulture: Classical Greek\nProduction date: 447BC-432BC\nFind spot: Excavated/Findspot: Parthenon\nMaterials: marble\nDimensions: 34.29 centimetres\nLocation: On display (Room 18a - Greece: Parthenon)\nDept: Greek and Roman",
+      "Description: Lower part of a marble antefix from the Parthenon.",
+      "Producer name: Designed by: Pheidias\nAcq name (acq): Purchased from: Henry William Inwood\nAcq name (previous): Purchased from: Henry William Inwood\nAcq date: 1843\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T13:22:13.561152",
+    "museum_number": "1907,0119.27",
+    "object_name": "anatomical votive",
+    "visitor_question": "tell me aboout yourself",
+    "response": "I went quiet there \u2014 the model returned an empty response. Try asking again.",
+    "retrieved_metadata": [
+      {
+        "materials": "terracotta",
+        "object_name": "anatomical votive",
+        "production_date": "2000BC-1700BC",
+        "culture": "Middle Minoan I; Middle Minoan II",
+        "location": "On display (Room 12 - Greece: Minoans and Mycenaeans, Display Case 2)",
+        "object_group": "anatomical votive",
+        "museum_number": "1907,0119.27",
+        "object_type": "anatomical votive (object name)",
+        "chunk_type": "context"
+      },
+      {
+        "museum_number": "1907,0119.27",
+        "production_date": "2000BC-1700BC",
+        "chunk_type": "core_facts",
+        "object_name": "anatomical votive",
+        "object_group": "anatomical votive",
+        "materials": "terracotta",
+        "object_type": "anatomical votive (object name)",
+        "culture": "Middle Minoan I; Middle Minoan II",
+        "location": "On display (Room 12 - Greece: Minoans and Mycenaeans, Display Case 2)"
+      },
+      {
+        "location": "On display (Room 12 - Greece: Minoans and Mycenaeans, Display Case 2)",
+        "object_name": "anatomical votive",
+        "culture": "Middle Minoan I; Middle Minoan II",
+        "object_type": "anatomical votive (object name)",
+        "museum_number": "1907,0119.27",
+        "object_group": "anatomical votive",
+        "materials": "terracotta",
+        "chunk_type": "description",
+        "production_date": "2000BC-1700BC"
+      }
+    ],
+    "retrieved_chunks": [
+      "Curators Comments: p.102, Catalogue number 3.3.8, Plate XLVI.2 Rutkowski, B. (1991), Petsophas: A Cretan Peak Sanctuary.\nAcq name (acq): Donated by: British School at Athens\nAcq name (previous): Donated by: British School at Athens\nAcq date: 1907",
+      "Object type: anatomical votive (object name)\nMuseum number: 1907,0119.27\nCulture: Middle Minoan I; Middle Minoan II\nProduction date: 2000BC-1700BC\nProduction place: Made in: Crete\nFind spot: Excavated/Findspot: Petsofas\nMaterials: terracotta\nDimensions: 6.10 centimetres; 7.20 centimetres; 16.00 grammes; 2.10 centimetres\nLocation: On display (Room 12 - Greece: Minoans and Mycenaeans, Display Case 2)\nDept: Greek and Roman",
+      "Description: Terracotta arm votive. Missing the hand. There is a hole for suspension or attachment at the top."
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T13:27:16.996405",
+    "museum_number": "1864,1007.1822",
+    "object_name": "alabastron",
+    "visitor_question": "Tell me about yourself",
+    "response": "I went quiet there \u2014 the model returned an empty response. Try asking again.",
+    "retrieved_metadata": [
+      {
+        "object_group": "alabastron",
+        "chunk_type": "description",
+        "object_type": "alabastron (object name)",
+        "production_date": "5thC BC",
+        "materials": "alabaster",
+        "culture": "Greek",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "museum_number": "1864,1007.1822",
+        "object_name": "alabastron"
+      },
+      {
+        "object_name": "alabastron",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "materials": "alabaster",
+        "culture": "Greek",
+        "production_date": "5thC BC",
+        "object_group": "alabastron",
+        "object_type": "alabastron (object name)",
+        "chunk_type": "core_facts",
+        "museum_number": "1864,1007.1822"
+      },
+      {
+        "object_name": "alabastron",
+        "museum_number": "1864,1007.1822",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "chunk_type": "context",
+        "production_date": "5thC BC",
+        "object_group": "alabastron",
+        "materials": "alabaster",
+        "object_type": "alabastron (object name)",
+        "culture": "Greek"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Alabaster alabastron with two lugs on the body.",
+      "Object type: alabastron (object name)\nMuseum number: 1864,1007.1822\nCulture: Greek\nProduction date: 5thC BC\nFind spot: Excavated/Findspot: Fikellura grave 43\nMaterials: alabaster\nDimensions: 9.65 centimetres; 28.50 centimetres\nLocation: On display (Room 19 - Greece: Athens, Display Case 2)\nDept: Greek and Roman",
+      "Curators Comments: Attributed to Fikellura grave 43, based on evidence from Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Alabastron small size bottomless. Seems to have been made on the same principle as the large one (1 entire). No marking of grave number visible on the object itself. Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Saturday 28 November 1863"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T13:36:57.842738",
+    "museum_number": "1864,1007.1822",
+    "object_name": "alabastron",
+    "visitor_question": "Tell me about yourself",
+    "response": "I went quiet there \u2014 the model returned an empty response. Try asking again.",
+    "retrieved_metadata": [
+      {
+        "chunk_type": "description",
+        "production_date": "5thC BC",
+        "object_name": "alabastron",
+        "culture": "Greek",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "object_group": "alabastron",
+        "object_type": "alabastron (object name)",
+        "materials": "alabaster",
+        "museum_number": "1864,1007.1822"
+      },
+      {
+        "production_date": "5thC BC",
+        "museum_number": "1864,1007.1822",
+        "culture": "Greek",
+        "chunk_type": "core_facts",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "materials": "alabaster",
+        "object_group": "alabastron",
+        "object_type": "alabastron (object name)",
+        "object_name": "alabastron"
+      },
+      {
+        "object_group": "alabastron",
+        "materials": "alabaster",
+        "chunk_type": "context",
+        "museum_number": "1864,1007.1822",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "object_type": "alabastron (object name)",
+        "production_date": "5thC BC",
+        "object_name": "alabastron",
+        "culture": "Greek"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Alabaster alabastron with two lugs on the body.",
+      "Object type: alabastron (object name)\nMuseum number: 1864,1007.1822\nCulture: Greek\nProduction date: 5thC BC\nFind spot: Excavated/Findspot: Fikellura grave 43\nMaterials: alabaster\nDimensions: 9.65 centimetres; 28.50 centimetres\nLocation: On display (Room 19 - Greece: Athens, Display Case 2)\nDept: Greek and Roman",
+      "Curators Comments: Attributed to Fikellura grave 43, based on evidence from Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Alabastron small size bottomless. Seems to have been made on the same principle as the large one (1 entire). No marking of grave number visible on the object itself. Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Saturday 28 November 1863"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T13:38:13.317928",
+    "museum_number": "1864,1007.1822",
+    "object_name": "alabastron",
+    "visitor_question": "Tell me about yourself",
+    "response": "I went quiet there \u2014 the model returned an empty response. Try asking again.",
+    "retrieved_metadata": [
+      {
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "object_type": "alabastron (object name)",
+        "object_name": "alabastron",
+        "production_date": "5thC BC",
+        "culture": "Greek",
+        "chunk_type": "description",
+        "object_group": "alabastron",
+        "museum_number": "1864,1007.1822",
+        "materials": "alabaster"
+      },
+      {
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "production_date": "5thC BC",
+        "object_group": "alabastron",
+        "object_type": "alabastron (object name)",
+        "materials": "alabaster",
+        "chunk_type": "core_facts",
+        "museum_number": "1864,1007.1822",
+        "object_name": "alabastron",
+        "culture": "Greek"
+      },
+      {
+        "culture": "Greek",
+        "materials": "alabaster",
+        "museum_number": "1864,1007.1822",
+        "object_group": "alabastron",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "object_name": "alabastron",
+        "production_date": "5thC BC",
+        "object_type": "alabastron (object name)",
+        "chunk_type": "context"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Alabaster alabastron with two lugs on the body.",
+      "Object type: alabastron (object name)\nMuseum number: 1864,1007.1822\nCulture: Greek\nProduction date: 5thC BC\nFind spot: Excavated/Findspot: Fikellura grave 43\nMaterials: alabaster\nDimensions: 9.65 centimetres; 28.50 centimetres\nLocation: On display (Room 19 - Greece: Athens, Display Case 2)\nDept: Greek and Roman",
+      "Curators Comments: Attributed to Fikellura grave 43, based on evidence from Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Alabastron small size bottomless. Seems to have been made on the same principle as the large one (1 entire). No marking of grave number visible on the object itself. Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Saturday 28 November 1863"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T13:38:20.380577",
+    "museum_number": "1864,1007.1822",
+    "object_name": "alabastron",
+    "visitor_question": "Tell me about yourself",
+    "response": "I went quiet there \u2014 the model returned an empty response. Try asking again.",
+    "retrieved_metadata": [
+      {
+        "museum_number": "1864,1007.1822",
+        "culture": "Greek",
+        "production_date": "5thC BC",
+        "object_group": "alabastron",
+        "object_type": "alabastron (object name)",
+        "materials": "alabaster",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "chunk_type": "description",
+        "object_name": "alabastron"
+      },
+      {
+        "materials": "alabaster",
+        "object_type": "alabastron (object name)",
+        "production_date": "5thC BC",
+        "chunk_type": "core_facts",
+        "object_group": "alabastron",
+        "object_name": "alabastron",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "culture": "Greek",
+        "museum_number": "1864,1007.1822"
+      },
+      {
+        "production_date": "5thC BC",
+        "chunk_type": "context",
+        "object_group": "alabastron",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "object_type": "alabastron (object name)",
+        "materials": "alabaster",
+        "museum_number": "1864,1007.1822",
+        "culture": "Greek",
+        "object_name": "alabastron"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Alabaster alabastron with two lugs on the body.",
+      "Object type: alabastron (object name)\nMuseum number: 1864,1007.1822\nCulture: Greek\nProduction date: 5thC BC\nFind spot: Excavated/Findspot: Fikellura grave 43\nMaterials: alabaster\nDimensions: 9.65 centimetres; 28.50 centimetres\nLocation: On display (Room 19 - Greece: Athens, Display Case 2)\nDept: Greek and Roman",
+      "Curators Comments: Attributed to Fikellura grave 43, based on evidence from Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Alabastron small size bottomless. Seems to have been made on the same principle as the large one (1 entire). No marking of grave number visible on the object itself. Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Saturday 28 November 1863"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T13:44:01.411699",
+    "museum_number": "1864,1007.1822",
+    "object_name": "alabastron",
+    "visitor_question": "Tell me about yourself",
+    "response": "I went quiet there \u2014 the model returned an empty response. Try asking again.",
+    "retrieved_metadata": [
+      {
+        "object_name": "alabastron",
+        "object_type": "alabastron (object name)",
+        "chunk_type": "description",
+        "production_date": "5thC BC",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "culture": "Greek",
+        "materials": "alabaster",
+        "object_group": "alabastron",
+        "museum_number": "1864,1007.1822"
+      },
+      {
+        "object_type": "alabastron (object name)",
+        "object_group": "alabastron",
+        "museum_number": "1864,1007.1822",
+        "object_name": "alabastron",
+        "production_date": "5thC BC",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "chunk_type": "core_facts",
+        "culture": "Greek",
+        "materials": "alabaster"
+      },
+      {
+        "materials": "alabaster",
+        "museum_number": "1864,1007.1822",
+        "culture": "Greek",
+        "object_name": "alabastron",
+        "object_group": "alabastron",
+        "object_type": "alabastron (object name)",
+        "chunk_type": "context",
+        "production_date": "5thC BC",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Alabaster alabastron with two lugs on the body.",
+      "Object type: alabastron (object name)\nMuseum number: 1864,1007.1822\nCulture: Greek\nProduction date: 5thC BC\nFind spot: Excavated/Findspot: Fikellura grave 43\nMaterials: alabaster\nDimensions: 9.65 centimetres; 28.50 centimetres\nLocation: On display (Room 19 - Greece: Athens, Display Case 2)\nDept: Greek and Roman",
+      "Curators Comments: Attributed to Fikellura grave 43, based on evidence from Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Alabastron small size bottomless. Seems to have been made on the same principle as the large one (1 entire). No marking of grave number visible on the object itself. Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Saturday 28 November 1863"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T18:36:20.909728",
+    "museum_number": "1860,0201.54",
+    "object_name": "alabastron",
+    "visitor_question": "where are you from?",
+    "response": "I went quiet there \u2014 the model returned an empty response. Try asking again.",
+    "retrieved_metadata": [
+      {
+        "materials": "pottery",
+        "museum_number": "1860,0201.54",
+        "chunk_type": "description",
+        "object_name": "alabastron",
+        "production_date": "650BC-600BC (circa)",
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 1)",
+        "object_group": "alabastron",
+        "culture": "East Greek; Orientalising Period",
+        "object_type": "alabastron (object name)"
+      },
+      {
+        "object_type": "alabastron (object name)",
+        "production_date": "650BC-600BC (circa)",
+        "culture": "East Greek; Orientalising Period",
+        "object_name": "alabastron",
+        "museum_number": "1860,0201.54",
+        "materials": "pottery",
+        "chunk_type": "core_facts",
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 1)",
+        "object_group": "alabastron"
+      },
+      {
+        "object_type": "alabastron (object name)",
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 1)",
+        "chunk_type": "context",
+        "production_date": "650BC-600BC (circa)",
+        "object_name": "alabastron",
+        "materials": "pottery",
+        "object_group": "alabastron",
+        "museum_number": "1860,0201.54",
+        "culture": "East Greek; Orientalising Period"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Glazed pottery alabastron.",
+      "Object type: alabastron (object name)\nMuseum number: 1860,0201.54\nCulture: East Greek; Orientalising Period\nProduction date: 650BC-600BC (circa)\nProduction place: Made in: East Greece\nFind spot: Excavated/Findspot: Kamiros (historic)\nMaterials: pottery\nTechnique: slipped\nDimensions: 6.90 centimetres; 19.40 centimetres; 367.00 grammes With mount\nLocation: On display (Room 13 - Greece 1050-520 BC, Display Case 1)\nDept: Greek and Roman",
+      "Acq name (acq): Purchased from: Auguste Salzmann; Purchased from: Sir Alfred Biliotti\nAcq name (previous): Purchased from: Auguste Salzmann; Purchased from: Sir Alfred Biliotti\nAcq date: 1860"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T18:38:12.913391",
+    "museum_number": "1860,0201.54",
+    "object_name": "alabastron",
+    "visitor_question": "Where are you from?",
+    "response": "I went quiet there \u2014 the model returned an empty response. Try asking again.",
+    "retrieved_metadata": [
+      {
+        "chunk_type": "description",
+        "materials": "pottery",
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 1)",
+        "production_date": "650BC-600BC (circa)",
+        "object_name": "alabastron",
+        "object_type": "alabastron (object name)",
+        "culture": "East Greek; Orientalising Period",
+        "museum_number": "1860,0201.54",
+        "object_group": "alabastron"
+      },
+      {
+        "materials": "pottery",
+        "object_name": "alabastron",
+        "object_type": "alabastron (object name)",
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 1)",
+        "production_date": "650BC-600BC (circa)",
+        "chunk_type": "core_facts",
+        "object_group": "alabastron",
+        "museum_number": "1860,0201.54",
+        "culture": "East Greek; Orientalising Period"
+      },
+      {
+        "chunk_type": "context",
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 1)",
+        "object_group": "alabastron",
+        "object_name": "alabastron",
+        "museum_number": "1860,0201.54",
+        "object_type": "alabastron (object name)",
+        "materials": "pottery",
+        "production_date": "650BC-600BC (circa)",
+        "culture": "East Greek; Orientalising Period"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Glazed pottery alabastron.",
+      "Object type: alabastron (object name)\nMuseum number: 1860,0201.54\nCulture: East Greek; Orientalising Period\nProduction date: 650BC-600BC (circa)\nProduction place: Made in: East Greece\nFind spot: Excavated/Findspot: Kamiros (historic)\nMaterials: pottery\nTechnique: slipped\nDimensions: 6.90 centimetres; 19.40 centimetres; 367.00 grammes With mount\nLocation: On display (Room 13 - Greece 1050-520 BC, Display Case 1)\nDept: Greek and Roman",
+      "Acq name (acq): Purchased from: Auguste Salzmann; Purchased from: Sir Alfred Biliotti\nAcq name (previous): Purchased from: Auguste Salzmann; Purchased from: Sir Alfred Biliotti\nAcq date: 1860"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T18:58:29.436513",
+    "museum_number": "1864,1007.258",
+    "object_name": "amphora",
+    "visitor_question": "where are you from?",
+    "response": "Ah, I come from the sun-drenched lands of Laconia, in ancient Greece. I was crafted during the Archaic period, around the sixth century BC, and my origins are rooted deep in the soil of that region. Though I was found in a grave, I carry the echoes of that time, waiting here now in the quiet light of the museum.",
+    "retrieved_metadata": [
+      {
+        "production_date": "6thC BC(late)",
+        "object_group": "amphora",
+        "chunk_type": "description",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "culture": "Archaic Greek",
+        "materials": "pottery",
+        "object_type": "amphora (object name)",
+        "museum_number": "1864,1007.258",
+        "object_name": "amphora"
+      },
+      {
+        "museum_number": "1864,1007.258",
+        "culture": "Archaic Greek",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "chunk_type": "core_facts",
+        "production_date": "6thC BC(late)",
+        "materials": "pottery",
+        "object_type": "amphora (object name)",
+        "object_name": "amphora",
+        "object_group": "amphora"
+      },
+      {
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "object_name": "amphora",
+        "object_group": "amphora",
+        "culture": "Archaic Greek",
+        "chunk_type": "context",
+        "museum_number": "1864,1007.258",
+        "object_type": "amphora (object name)",
+        "production_date": "6thC BC(late)",
+        "materials": "pottery"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Pottery: black-glazed amphora.",
+      "Object type: amphora (object name)\nMuseum number: 1864,1007.258\nCulture: Archaic Greek\nProduction date: 6thC BC(late)\nProduction place: Made in: Laconia (Greece)\nFind spot: Excavated/Findspot: Fikellura grave 35\nMaterials: pottery\nWare: Black Glaze\nTechnique: slipped\nDimensions: 35.56 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 12)\nDept: Greek and Roman",
+      "Curators Comments: Attributed to Fikellura grave 35, based on evidence from Biliotti's marking on the object (grave number incised), Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Amphora large size black varnish without figures or ornamentation (1 entire). Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Thursday 19 November 1863"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T18:59:19.838600",
+    "museum_number": "1886,0401.1225",
+    "object_name": "amphora ; oinochoe",
+    "visitor_question": "Where are you from?",
+    "response": "Ah, I hail from Attica, the heart of the Greek world. I was fashioned in the sun-drenched lands of Greece during the Archaic period, a piece born from the hands of the Amasis Painter. Though I was found in a sacred spot like Naukratis, my true beginning is rooted in that ancient Attic clay.",
+    "retrieved_metadata": [
+      {
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 7)",
+        "materials": "pottery",
+        "museum_number": "1886,0401.1225",
+        "object_name": "amphora ; oinochoe",
+        "object_type": "amphora (object name); oinochoe (object name)",
+        "object_group": "amphora ; oinochoe (object name)",
+        "chunk_type": "description",
+        "culture": "Attic; Archaic Greek",
+        "production_date": "550BC-540BC (circa)"
+      },
+      {
+        "materials": "pottery",
+        "culture": "Attic; Archaic Greek",
+        "object_type": "amphora (object name); oinochoe (object name)",
+        "museum_number": "1886,0401.1225",
+        "chunk_type": "core_facts",
+        "object_group": "amphora ; oinochoe (object name)",
+        "object_name": "amphora ; oinochoe",
+        "production_date": "550BC-540BC (circa)",
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 7)"
+      },
+      {
+        "production_date": "550BC-540BC (circa)",
+        "object_group": "amphora ; oinochoe (object name)",
+        "materials": "pottery",
+        "museum_number": "1886,0401.1225",
+        "object_name": "amphora ; oinochoe",
+        "chunk_type": "context",
+        "culture": "Attic; Archaic Greek",
+        "object_type": "amphora (object name); oinochoe (object name)",
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 7)"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Neck and body sherd of Attic black-figured pottery amphora or oinochoe type III; interior: glazed at top, reserved below; exterior: neck glazed; above panel, upright bud chain alternating in added red and black, framed by double lines; below, black-figure decoration consisting of a fight; bearded horseman (head, right arm and possibly left upper arm remaining) to right, wearing red pilos with white border decorated with diagonal incised lines, striking downwards with spear in right hand; head and neck of horse remain (forelock tied in pom-pom, red eye, white teeth, diagonal incised lines on chin, pairs of white studs on reins); on right, warrior attacking to left with raised spear (face, part of high-crested helmet with row of white dots between incised lines above red band and red on lowest part of crest, point of spear, part of red shield remain); at far left, point of raised spear to right belonging to lost combatant.\nSubjects: warrior; equestrian",
+      "Object type: amphora (object name); oinochoe (object name)\nMuseum number: 1886,0401.1225\nCulture: Attic; Archaic Greek\nProduction date: 550BC-540BC (circa)\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Sanctuary of Apollo (Naukratis)\nMaterials: pottery\nWare: Black Figure\nTechnique: painted; incised\nDimensions: 4.80 centimetres; 0.50 centimetres; 6.50 centimetres\nLocation: On display (Room 13 - Greece 1050-520 BC, Display Case 7)\nDept: Greek and Roman",
+      "Curators Comments: For parallels, see Oxford AN1896-1908-G.137.52 from Naukratis; for the horse, compare British Museum 1888,0601.596. Beazley first published this sherd as possibly an oinochoe type III. Bothmer preferred to see an amphora because the buds are framed above and below the concentric double bands, which are typically found on amphorae, rather than oinochoai (von Bothmer, D. 'New Vases by the Amasis Painter', Antike Kunst III.2, 1960, 71-80). However, such oinochoai by the Amasis Painter do exist; see Oxford 1965.122.\nProducer name: Attributed to: The Amasis Painter\nAcq name (acq): Donated by: Egypt Exploration Fund\nAcq name (excavator): Excavated by: Egypt Exploration Fund\nAcq name (previous): Donated by: Egypt Exploration Fund\nAcq date: 1886\nAcq notes (exc): Excavated 1884-1885.\nBib references: Vase / Catalogue of Vases in the British Museum; Venit 1982 / Painted Pottery from the Greek Mainland found in Egypt, 640-450 BC; Beazley & Payne 1929 / Attic Black Figured Fragments from Naukratis; Villing et al. 2013-2025 / Naukratis: Greeks in Egypt (Phase 1); ABV / Attic Black-Figure Vase-Painters; Petrie 1886 / Naukratis. Part I., 1884-85"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T19:03:57.747907",
+    "museum_number": "1886,0401.1225",
+    "object_name": "amphora ; oinochoe",
+    "visitor_question": "How old are you?",
+    "response": "Ah, how old am I? I was brought into existence during the Archaic Greek period, roughly between 550 and 540 BC. I am a piece of Attic pottery, born in Greece, and I have witnessed a world vastly different from this one. I carry the echoes of that time, a silent witness to the lives of those who used me.",
+    "retrieved_metadata": [
+      {
+        "object_name": "amphora ; oinochoe",
+        "museum_number": "1886,0401.1225",
+        "production_date": "550BC-540BC (circa)",
+        "materials": "pottery",
+        "object_type": "amphora (object name); oinochoe (object name)",
+        "culture": "Attic; Archaic Greek",
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 7)",
+        "chunk_type": "core_facts",
+        "object_group": "amphora ; oinochoe (object name)"
+      },
+      {
+        "object_type": "amphora (object name); oinochoe (object name)",
+        "chunk_type": "description",
+        "object_group": "amphora ; oinochoe (object name)",
+        "museum_number": "1886,0401.1225",
+        "culture": "Attic; Archaic Greek",
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 7)",
+        "production_date": "550BC-540BC (circa)",
+        "object_name": "amphora ; oinochoe",
+        "materials": "pottery"
+      },
+      {
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 7)",
+        "object_type": "amphora (object name); oinochoe (object name)",
+        "museum_number": "1886,0401.1225",
+        "production_date": "550BC-540BC (circa)",
+        "culture": "Attic; Archaic Greek",
+        "materials": "pottery",
+        "object_name": "amphora ; oinochoe",
+        "chunk_type": "context",
+        "object_group": "amphora ; oinochoe (object name)"
+      }
+    ],
+    "retrieved_chunks": [
+      "Object type: amphora (object name); oinochoe (object name)\nMuseum number: 1886,0401.1225\nCulture: Attic; Archaic Greek\nProduction date: 550BC-540BC (circa)\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Sanctuary of Apollo (Naukratis)\nMaterials: pottery\nWare: Black Figure\nTechnique: painted; incised\nDimensions: 4.80 centimetres; 0.50 centimetres; 6.50 centimetres\nLocation: On display (Room 13 - Greece 1050-520 BC, Display Case 7)\nDept: Greek and Roman",
+      "Description: Neck and body sherd of Attic black-figured pottery amphora or oinochoe type III; interior: glazed at top, reserved below; exterior: neck glazed; above panel, upright bud chain alternating in added red and black, framed by double lines; below, black-figure decoration consisting of a fight; bearded horseman (head, right arm and possibly left upper arm remaining) to right, wearing red pilos with white border decorated with diagonal incised lines, striking downwards with spear in right hand; head and neck of horse remain (forelock tied in pom-pom, red eye, white teeth, diagonal incised lines on chin, pairs of white studs on reins); on right, warrior attacking to left with raised spear (face, part of high-crested helmet with row of white dots between incised lines above red band and red on lowest part of crest, point of spear, part of red shield remain); at far left, point of raised spear to right belonging to lost combatant.\nSubjects: warrior; equestrian",
+      "Curators Comments: For parallels, see Oxford AN1896-1908-G.137.52 from Naukratis; for the horse, compare British Museum 1888,0601.596. Beazley first published this sherd as possibly an oinochoe type III. Bothmer preferred to see an amphora because the buds are framed above and below the concentric double bands, which are typically found on amphorae, rather than oinochoai (von Bothmer, D. 'New Vases by the Amasis Painter', Antike Kunst III.2, 1960, 71-80). However, such oinochoai by the Amasis Painter do exist; see Oxford 1965.122.\nProducer name: Attributed to: The Amasis Painter\nAcq name (acq): Donated by: Egypt Exploration Fund\nAcq name (excavator): Excavated by: Egypt Exploration Fund\nAcq name (previous): Donated by: Egypt Exploration Fund\nAcq date: 1886\nAcq notes (exc): Excavated 1884-1885.\nBib references: Vase / Catalogue of Vases in the British Museum; Venit 1982 / Painted Pottery from the Greek Mainland found in Egypt, 640-450 BC; Beazley & Payne 1929 / Attic Black Figured Fragments from Naukratis; Villing et al. 2013-2025 / Naukratis: Greeks in Egypt (Phase 1); ABV / Attic Black-Figure Vase-Painters; Petrie 1886 / Naukratis. Part I., 1884-85"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T19:19:29.339638",
+    "museum_number": "1905,0610.7",
+    "object_name": "jar ; alabastron",
+    "visitor_question": "Tell me about yourself",
+    "response": "I went quiet there \u2014 the model returned an empty response. Try asking again.",
+    "retrieved_metadata": [
+      {
+        "object_type": "jar (object name); alabastron (object name)",
+        "object_name": "jar ; alabastron",
+        "location": "On display (Room 12 - Greece: Minoans and Mycenaeans, Display Case 7)",
+        "production_date": "1300BC-1200BC",
+        "culture": "Late Helladic IIIB",
+        "museum_number": "1905,0610.7",
+        "materials": "pottery",
+        "object_group": "jar ; alabastron (object name)",
+        "chunk_type": "description"
+      },
+      {
+        "object_type": "jar (object name); alabastron (object name)",
+        "location": "On display (Room 12 - Greece: Minoans and Mycenaeans, Display Case 7)",
+        "culture": "Late Helladic IIIB",
+        "object_name": "jar ; alabastron",
+        "production_date": "1300BC-1200BC",
+        "chunk_type": "core_facts",
+        "object_group": "jar ; alabastron (object name)",
+        "museum_number": "1905,0610.7",
+        "materials": "pottery"
+      },
+      {
+        "location": "On display (Room 12 - Greece: Minoans and Mycenaeans, Display Case 7)",
+        "object_type": "jar (object name); alabastron (object name)",
+        "chunk_type": "context",
+        "museum_number": "1905,0610.7",
+        "object_group": "jar ; alabastron (object name)",
+        "production_date": "1300BC-1200BC",
+        "materials": "pottery",
+        "object_name": "jar ; alabastron",
+        "culture": "Late Helladic IIIB"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Pottery jar/alabastron (Furumark Shape 85). Red slipped on exterior and inside rim.",
+      "Object type: jar (object name); alabastron (object name)\nMuseum number: 1905,0610.7\nCulture: Late Helladic IIIB\nProduction date: 1300BC-1200BC\nProduction place: Made in: Greece\nFind spot: Excavated/Findspot: Sphiktia (Argolis)\nMaterials: pottery\nTechnique: slipped\nDimensions: 8.25 centimetres\nLocation: On display (Room 12 - Greece: Minoans and Mycenaeans, Display Case 7)\nDept: Greek and Roman",
+      "Curators Comments: The location of the tomb at Sphiktia is unknown (and it is not certain that all of the objects said to be from this location form a coherent group). See Archaeological Atlas of Mycenae (2003), p. 38.\nAcq name (acq): Purchased from: Mrs Charles Griffin\nAcq name (previous): Purchased from: Mrs Charles Griffin\nAcq date: 1905\nBib references: Vase / Catalogue of Vases in the British Museum; Furumark 1941 / The Mycenaean Pottery. Analysis and Classification."
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T19:32:00.384189",
+    "museum_number": "1905,0610.7",
+    "object_name": "jar ; alabastron",
+    "visitor_question": "How old are you?",
+    "response": "Oh, to measure my age is to measure the deep, slow passage of time itself. I was crafted during the Late Helladic period, between 1300 and 1200 BC, a time when the world felt vastly different. I carry the echoes of those ancient lives, waiting here now for you to listen to what I have witnessed.",
+    "retrieved_metadata": [
+      {
+        "production_date": "1300BC-1200BC",
+        "materials": "pottery",
+        "object_group": "jar ; alabastron (object name)",
+        "object_name": "jar ; alabastron",
+        "location": "On display (Room 12 - Greece: Minoans and Mycenaeans, Display Case 7)",
+        "object_type": "jar (object name); alabastron (object name)",
+        "chunk_type": "description",
+        "museum_number": "1905,0610.7",
+        "culture": "Late Helladic IIIB"
+      },
+      {
+        "materials": "pottery",
+        "object_type": "jar (object name); alabastron (object name)",
+        "museum_number": "1905,0610.7",
+        "object_name": "jar ; alabastron",
+        "object_group": "jar ; alabastron (object name)",
+        "culture": "Late Helladic IIIB",
+        "location": "On display (Room 12 - Greece: Minoans and Mycenaeans, Display Case 7)",
+        "production_date": "1300BC-1200BC",
+        "chunk_type": "core_facts"
+      },
+      {
+        "object_name": "jar ; alabastron",
+        "materials": "pottery",
+        "museum_number": "1905,0610.7",
+        "culture": "Late Helladic IIIB",
+        "production_date": "1300BC-1200BC",
+        "location": "On display (Room 12 - Greece: Minoans and Mycenaeans, Display Case 7)",
+        "chunk_type": "context",
+        "object_type": "jar (object name); alabastron (object name)",
+        "object_group": "jar ; alabastron (object name)"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Pottery jar/alabastron (Furumark Shape 85). Red slipped on exterior and inside rim.",
+      "Object type: jar (object name); alabastron (object name)\nMuseum number: 1905,0610.7\nCulture: Late Helladic IIIB\nProduction date: 1300BC-1200BC\nProduction place: Made in: Greece\nFind spot: Excavated/Findspot: Sphiktia (Argolis)\nMaterials: pottery\nTechnique: slipped\nDimensions: 8.25 centimetres\nLocation: On display (Room 12 - Greece: Minoans and Mycenaeans, Display Case 7)\nDept: Greek and Roman",
+      "Curators Comments: The location of the tomb at Sphiktia is unknown (and it is not certain that all of the objects said to be from this location form a coherent group). See Archaeological Atlas of Mycenae (2003), p. 38.\nAcq name (acq): Purchased from: Mrs Charles Griffin\nAcq name (previous): Purchased from: Mrs Charles Griffin\nAcq date: 1905\nBib references: Vase / Catalogue of Vases in the British Museum; Furumark 1941 / The Mycenaean Pottery. Analysis and Classification."
+    ]
+  },
+  {
+    "timestamp": "2026-05-15T16:22:24.223716",
+    "museum_number": "1861,0425.47",
+    "object_name": "amphora",
+    "visitor_question": "Where are you from?",
+    "response": "Ah, I come from the ancient world, specifically the East Greek tradition. I was fashioned in Miletus around 540 BC, and though I was found in Kamiros, my heart belongs to the bustling trade and artistry of that city. I am a vessel of pottery, born of that time and place.",
+    "retrieved_metadata": [
+      {
+        "object_name": "amphora",
+        "production_date": "540BC (circa)",
+        "object_type": "amphora (object name)",
+        "object_group": "amphora",
+        "chunk_type": "description",
+        "culture": "East Greek",
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 6)",
+        "museum_number": "1861,0425.47",
+        "materials": "pottery"
+      },
+      {
+        "chunk_type": "core_facts",
+        "materials": "pottery",
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 6)",
+        "production_date": "540BC (circa)",
+        "object_type": "amphora (object name)",
+        "museum_number": "1861,0425.47",
+        "object_name": "amphora",
+        "object_group": "amphora",
+        "culture": "East Greek"
+      },
+      {
+        "object_group": "amphora",
+        "object_type": "amphora (object name)",
+        "chunk_type": "context",
+        "museum_number": "1861,0425.47",
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 6)",
+        "culture": "East Greek",
+        "production_date": "540BC (circa)",
+        "materials": "pottery",
+        "object_name": "amphora"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Pottery amphora decorated in the Fikellura style. Neck, meander and square. Shoulder, tongues: open cable. Belly, (on each side) partridge between handle volutes: crescents: tongues.\nSubjects: bird",
+      "Object type: amphora (object name)\nMuseum number: 1861,0425.47\nCulture: East Greek\nProduction date: 540BC (circa)\nProduction place: Made in: Miletus\nFind spot: Excavated/Findspot: Kamiros (historic)\nMaterials: pottery\nWare: Fikellura\nDimensions: 29.10 centimetres; 1.66 kilograms; 23.50 centimetres\nLocation: On display (Room 13 - Greece 1050-520 BC, Display Case 6)\nDept: Greek and Roman",
+      "Curators Comments: CVA British Museum 8 [A.1313.] Boehlau no. 13, fig. 25. H. B. Walters, History of Ancient Pottery i, fig. 91 (left). M. Herford, Handbook of Greek Vase Painting, pl. 5c. BSA xxxiv, 16-17 (J 12), 18, 64-65, 79; pl. 7b.\nAcq name (acq): Purchased from: Auguste Salzmann; Purchased from: Sir Alfred Biliotti\nAcq name (previous): Purchased from: Auguste Salzmann; Purchased from: Sir Alfred Biliotti\nAcq date: 1861\nBib references: CVA British Museum 8 / Corpus Vasorum Antiquorum: Great Britain 13, British Museum 8"
+    ]
+  },
+  {
+    "timestamp": "2026-05-15T16:36:57.056644",
+    "museum_number": "1867,0506.40",
+    "object_name": "alabastron",
+    "visitor_question": "Tell me about yourself",
+    "response": "Ah, I am a piece of pottery, specifically a white-ground alabastron, and my story stretches back to the heart of Attica, Greece, around 480BC. I was excavated from Rhodes, and though the details of my design\u2014a figure in a chiton, a stork, and another youth\u2014have been worn by time, they still tell a quiet story of ancient life. I carry the echoes of a world long gone, and I remain here, waiting for you to see the faint outlines of what I once was.",
+    "retrieved_metadata": [
+      {
+        "object_name": "alabastron",
+        "culture": "Attic",
+        "object_type": "alabastron (object name)",
+        "production_date": "480BC-470BC",
+        "location": "On display (Room G20a - Greek Vases, Display Case 19)",
+        "materials": "pottery",
+        "museum_number": "1867,0506.40",
+        "object_group": "alabastron",
+        "chunk_type": "context"
+      },
+      {
+        "chunk_type": "core_facts",
+        "culture": "Attic",
+        "object_type": "alabastron (object name)",
+        "object_name": "alabastron",
+        "production_date": "480BC-470BC",
+        "materials": "pottery",
+        "location": "On display (Room G20a - Greek Vases, Display Case 19)",
+        "museum_number": "1867,0506.40",
+        "object_group": "alabastron"
+      },
+      {
+        "culture": "Attic",
+        "museum_number": "1867,0506.40",
+        "production_date": "480BC-470BC",
+        "materials": "pottery",
+        "object_group": "alabastron",
+        "chunk_type": "description",
+        "location": "On display (Room G20a - Greek Vases, Display Case 19)",
+        "object_name": "alabastron",
+        "object_type": "alabastron (object name)"
+      }
+    ],
+    "retrieved_chunks": [
+      "Acq name (acq): Purchased from: Auguste Salzmann; Purchased through: Alessandro Castellani\nAcq name (previous): Purchased from: Auguste Salzmann; Purchased through: Alessandro Castellani\nAcq date: 1867\nBib references: Vase / Catalogue of Vases in the British Museum",
+      "Object type: alabastron (object name)\nMuseum number: 1867,0506.40\nCulture: Attic\nProduction date: 480BC-470BC\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Rhodes\nMaterials: pottery\nWare: White Ground\nTechnique: painted\nDimensions: 17.78 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 19)\nDept: Greek and Roman",
+      "Description: Pottery: White-ground alabastron. Design black, partly painted, partly outlined, on drab ground, with no incised lines or accessories; rather worn. An ephebe (youth) (or woman?) to right in long chiton (the folds outlined) and himation held out on right arm; the face is outlined, the himation painted black. Behind is a brazier with three legs; in front, a stork to right pluming itself. In front, looking back, is another ephebe (or woman) in long chiton and himation, both outlined, his face also in outline; in his left hand is a pyxis."
+    ]
+  },
+  {
+    "timestamp": "2026-05-15T17:58:40.644665",
+    "museum_number": "1837,0609.42",
+    "object_name": "amphora",
+    "visitor_question": "Where are you from?",
+    "response": "Ah, where am I from? I am a piece of Attic pottery, born in the heart of Greece during the Archaic period, specifically Attica. I was crafted around 520 BC, and while I travel now through time and space, my roots are firmly in that sun-drenched land. It is a long story, but I carry the memory of those ancient shores with me.",
+    "retrieved_metadata": [
+      {
+        "museum_number": "1837,0609.42",
+        "culture": "Attic; Archaic Greek",
+        "object_type": "amphora (object name)",
+        "chunk_type": "core_facts",
+        "object_name": "amphora",
+        "materials": "pottery",
+        "location": "On display (Room 69 - Greek and Roman Life, Display Case 15)",
+        "object_group": "amphora",
+        "production_date": "520BC"
+      },
+      {
+        "object_group": "amphora",
+        "materials": "pottery",
+        "object_name": "amphora",
+        "museum_number": "1837,0609.42",
+        "production_date": "520BC",
+        "culture": "Attic; Archaic Greek",
+        "object_type": "amphora (object name)",
+        "chunk_type": "description",
+        "location": "On display (Room 69 - Greek and Roman Life, Display Case 15)"
+      },
+      {
+        "materials": "pottery",
+        "museum_number": "1837,0609.42",
+        "object_name": "amphora",
+        "location": "On display (Room 69 - Greek and Roman Life, Display Case 15)",
+        "production_date": "520BC",
+        "culture": "Attic; Archaic Greek",
+        "object_type": "amphora (object name)",
+        "chunk_type": "context",
+        "object_group": "amphora"
+      }
+    ],
+    "retrieved_chunks": [
+      "Object type: amphora (object name)\nMuseum number: 1837,0609.42\nCulture: Attic; Archaic Greek\nProduction date: 520BC\nProduction place: Made in: Attica (Greece)\nMaterials: pottery\nWare: Black Figure\nTechnique: painted; incised\nDimensions: 40.64 centimetres\nLocation: On display (Room 69 - Greek and Roman Life, Display Case 15)\nDept: Greek and Roman",
+      "Description: Pottery: black-figured amphora. (a) Pholos receiving Heracles: On the left is Pholos to right, carrying a large bough over his left shoulder, from which hang a hare and a fox tied by the forelegs, and a bird tied by its beak; he is laying his hand in that of Heracles, who confronts him. Heracles is bearded, with short embroidered chiton, sword and quiver at girdle, club over left shoulder, from which the lion's skin is suspended. Behind him is Hermes seated to left, bearded, with long hair, fillet, striped embroidered chlamys, petasos, endromides, and caduceus. By the side of Pholos is a hind walking to right. (b) Olive-gathering: Three olive-trees; in the branches of the centre one is a nude youth seated to left with a stick in his hands, with which he shakes down the olives. Two bearded figures, one on each side, with purple drapery round the loins, are beating the trees with long sticks; the one on the right wears a pilos. At the foot of the tree is a nude youth kneeling to right, picking up the olives, as they fall, into a basket.\nSubjects: agriculture; classical deity; classical mythology\nAssoc name: Representation of: Herakles/Hercules; Representation of: Hermes/Mercury; Representation of: Philos\nInscription: Inscription type: merchant's mark Inscription position: under foot Inscription script: Greek Inscription note: Graffito ligature lambda-epsilon\nCondition: Repaired.",
+      "Curators Comments: BM Cat. Vases De Witte, Descr. No. 76; Berichte d. S\u00e4chs. Gesellsch. 1867, pi. 2, p. 88 ; Baumeister, p. 1047. For the subject of side A, cf. Gerhard, A.V. ii. pls. 119-120, 7; Stephani, Compte-Rendu, 1873, p. 90 ff., and pl. v.; J.H.S. i. p.111. For side , cf. Berlin Cat. 1855; Inghirami, Vast Fitt. iii. 230; Micali, Storia, pl. 92; Panofka, Bild. Ant. Leb. pl. xiv. 8; and Gerhard, A.V. ii. p. 46.\nProducer name: Attributed to: The Antimenes Painter\nAcq name (acq): Purchased from: Lucien Bonaparte, Prince of Canino and Musignano (sale)\nAcq name (previous): Purchased from: Lucien Bonaparte, Prince of Canino and Musignano (sale)\nAcq date: 1837\nExhibition history: Exhibited: 2001 15 Jun-31 Oct, Barcelona, Bread, Oil and Wine 2017-2018, 2 Nov-15 Apr, Athens, Museum of Cycladic Art, Money: Tangible symbols in ancient Greece\nBib references: Vase / Catalogue of Vases in the British Museum; Old Catalogue / A Catalogue of the Greek and Etruscan Vases in the British Museum; CVA British Museum 4 / Corpus Vasorum Antiquorum: Great Britain 5, British Museum 4; Johnston 2006a / Trademarks on Greek Vases: Addenda"
+    ]
+  },
+  {
+    "timestamp": "2026-05-15T17:58:56.943260",
+    "museum_number": "1837,0609.42",
+    "object_name": "amphora",
+    "visitor_question": "How old are you?",
+    "response": "Oh, to measure me in mere years feels so terribly small. I was born in the deep antiquity of 520 BC, a piece of pottery crafted in Attica during the Archaic Greek period. Think of it less as a date and more as a memory\u2014a fragment of a world that existed long before your own.",
+    "retrieved_metadata": [
+      {
+        "culture": "Attic; Archaic Greek",
+        "object_type": "amphora (object name)",
+        "object_group": "amphora",
+        "location": "On display (Room 69 - Greek and Roman Life, Display Case 15)",
+        "materials": "pottery",
+        "production_date": "520BC",
+        "object_name": "amphora",
+        "museum_number": "1837,0609.42",
+        "chunk_type": "core_facts"
+      },
+      {
+        "production_date": "520BC",
+        "culture": "Attic; Archaic Greek",
+        "object_group": "amphora",
+        "museum_number": "1837,0609.42",
+        "location": "On display (Room 69 - Greek and Roman Life, Display Case 15)",
+        "object_type": "amphora (object name)",
+        "object_name": "amphora",
+        "materials": "pottery",
+        "chunk_type": "description"
+      },
+      {
+        "object_name": "amphora",
+        "materials": "pottery",
+        "location": "On display (Room 69 - Greek and Roman Life, Display Case 15)",
+        "object_group": "amphora",
+        "object_type": "amphora (object name)",
+        "museum_number": "1837,0609.42",
+        "chunk_type": "context",
+        "production_date": "520BC",
+        "culture": "Attic; Archaic Greek"
+      }
+    ],
+    "retrieved_chunks": [
+      "Object type: amphora (object name)\nMuseum number: 1837,0609.42\nCulture: Attic; Archaic Greek\nProduction date: 520BC\nProduction place: Made in: Attica (Greece)\nMaterials: pottery\nWare: Black Figure\nTechnique: painted; incised\nDimensions: 40.64 centimetres\nLocation: On display (Room 69 - Greek and Roman Life, Display Case 15)\nDept: Greek and Roman",
+      "Description: Pottery: black-figured amphora. (a) Pholos receiving Heracles: On the left is Pholos to right, carrying a large bough over his left shoulder, from which hang a hare and a fox tied by the forelegs, and a bird tied by its beak; he is laying his hand in that of Heracles, who confronts him. Heracles is bearded, with short embroidered chiton, sword and quiver at girdle, club over left shoulder, from which the lion's skin is suspended. Behind him is Hermes seated to left, bearded, with long hair, fillet, striped embroidered chlamys, petasos, endromides, and caduceus. By the side of Pholos is a hind walking to right. (b) Olive-gathering: Three olive-trees; in the branches of the centre one is a nude youth seated to left with a stick in his hands, with which he shakes down the olives. Two bearded figures, one on each side, with purple drapery round the loins, are beating the trees with long sticks; the one on the right wears a pilos. At the foot of the tree is a nude youth kneeling to right, picking up the olives, as they fall, into a basket.\nSubjects: agriculture; classical deity; classical mythology\nAssoc name: Representation of: Herakles/Hercules; Representation of: Hermes/Mercury; Representation of: Philos\nInscription: Inscription type: merchant's mark Inscription position: under foot Inscription script: Greek Inscription note: Graffito ligature lambda-epsilon\nCondition: Repaired.",
+      "Curators Comments: BM Cat. Vases De Witte, Descr. No. 76; Berichte d. S\u00e4chs. Gesellsch. 1867, pi. 2, p. 88 ; Baumeister, p. 1047. For the subject of side A, cf. Gerhard, A.V. ii. pls. 119-120, 7; Stephani, Compte-Rendu, 1873, p. 90 ff., and pl. v.; J.H.S. i. p.111. For side , cf. Berlin Cat. 1855; Inghirami, Vast Fitt. iii. 230; Micali, Storia, pl. 92; Panofka, Bild. Ant. Leb. pl. xiv. 8; and Gerhard, A.V. ii. p. 46.\nProducer name: Attributed to: The Antimenes Painter\nAcq name (acq): Purchased from: Lucien Bonaparte, Prince of Canino and Musignano (sale)\nAcq name (previous): Purchased from: Lucien Bonaparte, Prince of Canino and Musignano (sale)\nAcq date: 1837\nExhibition history: Exhibited: 2001 15 Jun-31 Oct, Barcelona, Bread, Oil and Wine 2017-2018, 2 Nov-15 Apr, Athens, Museum of Cycladic Art, Money: Tangible symbols in ancient Greece\nBib references: Vase / Catalogue of Vases in the British Museum; Old Catalogue / A Catalogue of the Greek and Etruscan Vases in the British Museum; CVA British Museum 4 / Corpus Vasorum Antiquorum: Great Britain 5, British Museum 4; Johnston 2006a / Trademarks on Greek Vases: Addenda"
+    ]
+  },
+  {
+    "timestamp": "2026-05-15T17:59:23.371921",
+    "museum_number": "1837,0609.42",
+    "object_name": "amphora",
+    "visitor_question": "So how old in years does that make you?",
+    "response": "To try and pin down that antiquity in mere years feels utterly ridiculous, doesn't it? I was born in 520 BC, a time when the world was shaped differently, and that makes me a silent witness to an age of myth and nascent civilization. I am less a measurement and more a fragment of that profound, sun-drenched history.",
+    "retrieved_metadata": [
+      {
+        "museum_number": "1837,0609.42",
+        "object_name": "amphora",
+        "culture": "Attic; Archaic Greek",
+        "chunk_type": "core_facts",
+        "object_type": "amphora (object name)",
+        "object_group": "amphora",
+        "materials": "pottery",
+        "production_date": "520BC",
+        "location": "On display (Room 69 - Greek and Roman Life, Display Case 15)"
+      },
+      {
+        "object_type": "amphora (object name)",
+        "chunk_type": "context",
+        "culture": "Attic; Archaic Greek",
+        "location": "On display (Room 69 - Greek and Roman Life, Display Case 15)",
+        "object_name": "amphora",
+        "production_date": "520BC",
+        "materials": "pottery",
+        "object_group": "amphora",
+        "museum_number": "1837,0609.42"
+      },
+      {
+        "museum_number": "1837,0609.42",
+        "object_type": "amphora (object name)",
+        "location": "On display (Room 69 - Greek and Roman Life, Display Case 15)",
+        "production_date": "520BC",
+        "object_name": "amphora",
+        "culture": "Attic; Archaic Greek",
+        "object_group": "amphora",
+        "materials": "pottery",
+        "chunk_type": "description"
+      }
+    ],
+    "retrieved_chunks": [
+      "Object type: amphora (object name)\nMuseum number: 1837,0609.42\nCulture: Attic; Archaic Greek\nProduction date: 520BC\nProduction place: Made in: Attica (Greece)\nMaterials: pottery\nWare: Black Figure\nTechnique: painted; incised\nDimensions: 40.64 centimetres\nLocation: On display (Room 69 - Greek and Roman Life, Display Case 15)\nDept: Greek and Roman",
+      "Curators Comments: BM Cat. Vases De Witte, Descr. No. 76; Berichte d. S\u00e4chs. Gesellsch. 1867, pi. 2, p. 88 ; Baumeister, p. 1047. For the subject of side A, cf. Gerhard, A.V. ii. pls. 119-120, 7; Stephani, Compte-Rendu, 1873, p. 90 ff., and pl. v.; J.H.S. i. p.111. For side , cf. Berlin Cat. 1855; Inghirami, Vast Fitt. iii. 230; Micali, Storia, pl. 92; Panofka, Bild. Ant. Leb. pl. xiv. 8; and Gerhard, A.V. ii. p. 46.\nProducer name: Attributed to: The Antimenes Painter\nAcq name (acq): Purchased from: Lucien Bonaparte, Prince of Canino and Musignano (sale)\nAcq name (previous): Purchased from: Lucien Bonaparte, Prince of Canino and Musignano (sale)\nAcq date: 1837\nExhibition history: Exhibited: 2001 15 Jun-31 Oct, Barcelona, Bread, Oil and Wine 2017-2018, 2 Nov-15 Apr, Athens, Museum of Cycladic Art, Money: Tangible symbols in ancient Greece\nBib references: Vase / Catalogue of Vases in the British Museum; Old Catalogue / A Catalogue of the Greek and Etruscan Vases in the British Museum; CVA British Museum 4 / Corpus Vasorum Antiquorum: Great Britain 5, British Museum 4; Johnston 2006a / Trademarks on Greek Vases: Addenda",
+      "Description: Pottery: black-figured amphora. (a) Pholos receiving Heracles: On the left is Pholos to right, carrying a large bough over his left shoulder, from which hang a hare and a fox tied by the forelegs, and a bird tied by its beak; he is laying his hand in that of Heracles, who confronts him. Heracles is bearded, with short embroidered chiton, sword and quiver at girdle, club over left shoulder, from which the lion's skin is suspended. Behind him is Hermes seated to left, bearded, with long hair, fillet, striped embroidered chlamys, petasos, endromides, and caduceus. By the side of Pholos is a hind walking to right. (b) Olive-gathering: Three olive-trees; in the branches of the centre one is a nude youth seated to left with a stick in his hands, with which he shakes down the olives. Two bearded figures, one on each side, with purple drapery round the loins, are beating the trees with long sticks; the one on the right wears a pilos. At the foot of the tree is a nude youth kneeling to right, picking up the olives, as they fall, into a basket.\nSubjects: agriculture; classical deity; classical mythology\nAssoc name: Representation of: Herakles/Hercules; Representation of: Hermes/Mercury; Representation of: Philos\nInscription: Inscription type: merchant's mark Inscription position: under foot Inscription script: Greek Inscription note: Graffito ligature lambda-epsilon\nCondition: Repaired."
+    ]
+  },
+  {
+    "timestamp": "2026-05-15T17:59:45.798011",
+    "museum_number": "1837,0609.42",
+    "object_name": "amphora",
+    "visitor_question": "Tell me about yourself",
+    "response": "I am a piece of pottery, born in the heart of Attica during the Archaic Greek period, crafted around 520 BC. I am a Black Figure amphora, painted and incised to tell you stories of agriculture and classical mythology, like the scenes of Heracles or olive-gathering. I carry the memory of that sun-drenched world, a silent witness to an age of myth that still hums within my painted lines.",
+    "retrieved_metadata": [
+      {
+        "culture": "Attic; Archaic Greek",
+        "chunk_type": "core_facts",
+        "object_group": "amphora",
+        "production_date": "520BC",
+        "museum_number": "1837,0609.42",
+        "object_type": "amphora (object name)",
+        "materials": "pottery",
+        "location": "On display (Room 69 - Greek and Roman Life, Display Case 15)",
+        "object_name": "amphora"
+      },
+      {
+        "chunk_type": "context",
+        "museum_number": "1837,0609.42",
+        "object_group": "amphora",
+        "object_name": "amphora",
+        "culture": "Attic; Archaic Greek",
+        "materials": "pottery",
+        "location": "On display (Room 69 - Greek and Roman Life, Display Case 15)",
+        "production_date": "520BC",
+        "object_type": "amphora (object name)"
+      },
+      {
+        "chunk_type": "description",
+        "location": "On display (Room 69 - Greek and Roman Life, Display Case 15)",
+        "culture": "Attic; Archaic Greek",
+        "object_name": "amphora",
+        "museum_number": "1837,0609.42",
+        "object_group": "amphora",
+        "production_date": "520BC",
+        "object_type": "amphora (object name)",
+        "materials": "pottery"
+      }
+    ],
+    "retrieved_chunks": [
+      "Object type: amphora (object name)\nMuseum number: 1837,0609.42\nCulture: Attic; Archaic Greek\nProduction date: 520BC\nProduction place: Made in: Attica (Greece)\nMaterials: pottery\nWare: Black Figure\nTechnique: painted; incised\nDimensions: 40.64 centimetres\nLocation: On display (Room 69 - Greek and Roman Life, Display Case 15)\nDept: Greek and Roman",
+      "Curators Comments: BM Cat. Vases De Witte, Descr. No. 76; Berichte d. S\u00e4chs. Gesellsch. 1867, pi. 2, p. 88 ; Baumeister, p. 1047. For the subject of side A, cf. Gerhard, A.V. ii. pls. 119-120, 7; Stephani, Compte-Rendu, 1873, p. 90 ff., and pl. v.; J.H.S. i. p.111. For side , cf. Berlin Cat. 1855; Inghirami, Vast Fitt. iii. 230; Micali, Storia, pl. 92; Panofka, Bild. Ant. Leb. pl. xiv. 8; and Gerhard, A.V. ii. p. 46.\nProducer name: Attributed to: The Antimenes Painter\nAcq name (acq): Purchased from: Lucien Bonaparte, Prince of Canino and Musignano (sale)\nAcq name (previous): Purchased from: Lucien Bonaparte, Prince of Canino and Musignano (sale)\nAcq date: 1837\nExhibition history: Exhibited: 2001 15 Jun-31 Oct, Barcelona, Bread, Oil and Wine 2017-2018, 2 Nov-15 Apr, Athens, Museum of Cycladic Art, Money: Tangible symbols in ancient Greece\nBib references: Vase / Catalogue of Vases in the British Museum; Old Catalogue / A Catalogue of the Greek and Etruscan Vases in the British Museum; CVA British Museum 4 / Corpus Vasorum Antiquorum: Great Britain 5, British Museum 4; Johnston 2006a / Trademarks on Greek Vases: Addenda",
+      "Description: Pottery: black-figured amphora. (a) Pholos receiving Heracles: On the left is Pholos to right, carrying a large bough over his left shoulder, from which hang a hare and a fox tied by the forelegs, and a bird tied by its beak; he is laying his hand in that of Heracles, who confronts him. Heracles is bearded, with short embroidered chiton, sword and quiver at girdle, club over left shoulder, from which the lion's skin is suspended. Behind him is Hermes seated to left, bearded, with long hair, fillet, striped embroidered chlamys, petasos, endromides, and caduceus. By the side of Pholos is a hind walking to right. (b) Olive-gathering: Three olive-trees; in the branches of the centre one is a nude youth seated to left with a stick in his hands, with which he shakes down the olives. Two bearded figures, one on each side, with purple drapery round the loins, are beating the trees with long sticks; the one on the right wears a pilos. At the foot of the tree is a nude youth kneeling to right, picking up the olives, as they fall, into a basket.\nSubjects: agriculture; classical deity; classical mythology\nAssoc name: Representation of: Herakles/Hercules; Representation of: Hermes/Mercury; Representation of: Philos\nInscription: Inscription type: merchant's mark Inscription position: under foot Inscription script: Greek Inscription note: Graffito ligature lambda-epsilon\nCondition: Repaired."
+    ]
+  },
+  {
+    "timestamp": "2026-05-15T18:43:01.132428",
+    "museum_number": "1864,1007.197",
+    "object_name": "alabastron",
+    "visitor_question": "Who is the person on your body?",
+    "response": "Ah, you ask who resides upon me? I am a piece of Attic pottery, a red-figured alabastron, and what you see are two Nikai. They are not merely painted figures, you see; they are a whisper from a time when beauty and myth were carefully rendered onto clay. I hold the memory of that moment, though the specific story of their identity remains etched only in the silence of history.",
+    "retrieved_metadata": [
+      {
+        "materials": "pottery",
+        "location": "On display (Room G20a - Greek Vases, Display Case 51)",
+        "object_type": "alabastron (object name)",
+        "museum_number": "1864,1007.197",
+        "production_date": "470BC (circa)",
+        "chunk_type": "description",
+        "culture": "Attic",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_8/01b0a822_0538_447f_9508_a3bf008fb870/preview_00493068_001.jpg",
+        "object_group": "alabastron",
+        "object_name": "alabastron"
+      },
+      {
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_8/01b0a822_0538_447f_9508_a3bf008fb870/preview_00493068_001.jpg",
+        "object_group": "alabastron",
+        "culture": "Attic",
+        "object_type": "alabastron (object name)",
+        "production_date": "470BC (circa)",
+        "object_name": "alabastron",
+        "location": "On display (Room G20a - Greek Vases, Display Case 51)",
+        "chunk_type": "core_facts",
+        "museum_number": "1864,1007.197",
+        "materials": "pottery"
+      },
+      {
+        "materials": "pottery",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_8/01b0a822_0538_447f_9508_a3bf008fb870/preview_00493068_001.jpg",
+        "chunk_type": "context",
+        "object_group": "alabastron",
+        "location": "On display (Room G20a - Greek Vases, Display Case 51)",
+        "museum_number": "1864,1007.197",
+        "object_name": "alabastron",
+        "production_date": "470BC (circa)",
+        "object_type": "alabastron (object name)",
+        "culture": "Attic"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Pottery: red-figured alabastron: two Nikai.",
+      "Object type: alabastron (object name)\nMuseum number: 1864,1007.197\nCulture: Attic\nProduction date: 470BC (circa)\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Fikellura grave 193\nMaterials: pottery\nWare: Red Figure\nTechnique: painted\nDimensions: 17.78 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 51)\nDept: Greek and Roman",
+      "Curators Comments: Attributed to Fikellura grave 193, based on evidence from Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Alabastron \u2013 earthenware \u2013 red figure \u2013 on black ground \u2013 winged female (1 entire). No marking of grave number visible on the object itself. Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nProducer name: Attributed to: The Painter of the Yale Lekythos\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Friday 18 March 1864\nBib references: Vase / Catalogue of Vases in the British Museum"
+    ]
+  },
+  {
+    "timestamp": "2026-05-15T18:43:27.302589",
+    "museum_number": "1864,1007.197",
+    "object_name": "alabastron",
+    "visitor_question": "What are Nikai",
+    "response": "Ah, you ask about the Nikai. They are simply the figures painted upon my surface, two winged females rendered in red figure on black ground. They are not just decoration, you see; they are echoes of the myths and aesthetics of the time when Attic beauty was captured in clay. While I hold their presence, the specific narrative of who they are remains whispered only by the silence of history.",
+    "retrieved_metadata": [
+      {
+        "object_name": "alabastron",
+        "materials": "pottery",
+        "object_group": "alabastron",
+        "object_type": "alabastron (object name)",
+        "production_date": "470BC (circa)",
+        "location": "On display (Room G20a - Greek Vases, Display Case 51)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_8/01b0a822_0538_447f_9508_a3bf008fb870/preview_00493068_001.jpg",
+        "chunk_type": "description",
+        "museum_number": "1864,1007.197",
+        "culture": "Attic"
+      },
+      {
+        "location": "On display (Room G20a - Greek Vases, Display Case 51)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_8/01b0a822_0538_447f_9508_a3bf008fb870/preview_00493068_001.jpg",
+        "culture": "Attic",
+        "object_group": "alabastron",
+        "materials": "pottery",
+        "object_type": "alabastron (object name)",
+        "production_date": "470BC (circa)",
+        "museum_number": "1864,1007.197",
+        "chunk_type": "context",
+        "object_name": "alabastron"
+      },
+      {
+        "chunk_type": "core_facts",
+        "production_date": "470BC (circa)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_8/01b0a822_0538_447f_9508_a3bf008fb870/preview_00493068_001.jpg",
+        "museum_number": "1864,1007.197",
+        "object_name": "alabastron",
+        "location": "On display (Room G20a - Greek Vases, Display Case 51)",
+        "object_type": "alabastron (object name)",
+        "object_group": "alabastron",
+        "culture": "Attic",
+        "materials": "pottery"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Pottery: red-figured alabastron: two Nikai.",
+      "Curators Comments: Attributed to Fikellura grave 193, based on evidence from Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Alabastron \u2013 earthenware \u2013 red figure \u2013 on black ground \u2013 winged female (1 entire). No marking of grave number visible on the object itself. Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nProducer name: Attributed to: The Painter of the Yale Lekythos\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Friday 18 March 1864\nBib references: Vase / Catalogue of Vases in the British Museum",
+      "Object type: alabastron (object name)\nMuseum number: 1864,1007.197\nCulture: Attic\nProduction date: 470BC (circa)\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Fikellura grave 193\nMaterials: pottery\nWare: Red Figure\nTechnique: painted\nDimensions: 17.78 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 51)\nDept: Greek and Roman"
+    ]
+  },
+  {
+    "timestamp": "2026-05-15T18:44:00.216093",
+    "museum_number": "1864,1007.197",
+    "object_name": "alabastron",
+    "visitor_question": "Why are you talking about the silence of history?",
+    "response": "I speak of the silence because while I am made of Attic clay and carry the beauty of a time long past, the specific story of my figures remains lost. The history that surrounds me is not a loud narrative, but a collection of whispers\u2014traces left by excavators and records that only hint at the lives that once touched my surface. It is the space between what was painted and what we can know about it now.",
+    "retrieved_metadata": [
+      {
+        "materials": "pottery",
+        "location": "On display (Room G20a - Greek Vases, Display Case 51)",
+        "culture": "Attic",
+        "museum_number": "1864,1007.197",
+        "chunk_type": "context",
+        "production_date": "470BC (circa)",
+        "object_group": "alabastron",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_8/01b0a822_0538_447f_9508_a3bf008fb870/preview_00493068_001.jpg",
+        "object_type": "alabastron (object name)",
+        "object_name": "alabastron"
+      },
+      {
+        "object_type": "alabastron (object name)",
+        "production_date": "470BC (circa)",
+        "culture": "Attic",
+        "materials": "pottery",
+        "object_group": "alabastron",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_8/01b0a822_0538_447f_9508_a3bf008fb870/preview_00493068_001.jpg",
+        "object_name": "alabastron",
+        "chunk_type": "description",
+        "location": "On display (Room G20a - Greek Vases, Display Case 51)",
+        "museum_number": "1864,1007.197"
+      },
+      {
+        "materials": "pottery",
+        "object_name": "alabastron",
+        "culture": "Attic",
+        "object_group": "alabastron",
+        "chunk_type": "core_facts",
+        "production_date": "470BC (circa)",
+        "museum_number": "1864,1007.197",
+        "object_type": "alabastron (object name)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_8/01b0a822_0538_447f_9508_a3bf008fb870/preview_00493068_001.jpg",
+        "location": "On display (Room G20a - Greek Vases, Display Case 51)"
+      }
+    ],
+    "retrieved_chunks": [
+      "Curators Comments: Attributed to Fikellura grave 193, based on evidence from Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Alabastron \u2013 earthenware \u2013 red figure \u2013 on black ground \u2013 winged female (1 entire). No marking of grave number visible on the object itself. Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nProducer name: Attributed to: The Painter of the Yale Lekythos\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Friday 18 March 1864\nBib references: Vase / Catalogue of Vases in the British Museum",
+      "Description: Pottery: red-figured alabastron: two Nikai.",
+      "Object type: alabastron (object name)\nMuseum number: 1864,1007.197\nCulture: Attic\nProduction date: 470BC (circa)\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Fikellura grave 193\nMaterials: pottery\nWare: Red Figure\nTechnique: painted\nDimensions: 17.78 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 51)\nDept: Greek and Roman"
+    ]
+  },
+  {
+    "timestamp": "2026-05-15T18:44:34.573705",
+    "museum_number": "1864,1007.197",
+    "object_name": "alabastron",
+    "visitor_question": "OKay thanks! What other objects are you similaer too?",
+    "response": "Oh, you ask what else shares my silent existence? I am similar to the countless other vessels of Attic pottery that rest in this department, all sharing that same vibrant, red-figure aesthetic. We are all echoes of the same world, crafted with the same skilled hands nearly two millennia ago. We are similar not in specific form, but in the shared, whispered history of Greece itself.",
+    "retrieved_metadata": [
+      {
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_8/01b0a822_0538_447f_9508_a3bf008fb870/preview_00493068_001.jpg",
+        "location": "On display (Room G20a - Greek Vases, Display Case 51)",
+        "object_group": "alabastron",
+        "museum_number": "1864,1007.197",
+        "object_type": "alabastron (object name)",
+        "chunk_type": "description",
+        "culture": "Attic",
+        "production_date": "470BC (circa)",
+        "object_name": "alabastron",
+        "materials": "pottery"
+      },
+      {
+        "chunk_type": "core_facts",
+        "museum_number": "1864,1007.197",
+        "location": "On display (Room G20a - Greek Vases, Display Case 51)",
+        "production_date": "470BC (circa)",
+        "object_group": "alabastron",
+        "culture": "Attic",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_8/01b0a822_0538_447f_9508_a3bf008fb870/preview_00493068_001.jpg",
+        "materials": "pottery",
+        "object_name": "alabastron",
+        "object_type": "alabastron (object name)"
+      },
+      {
+        "object_type": "alabastron (object name)",
+        "location": "On display (Room G20a - Greek Vases, Display Case 51)",
+        "materials": "pottery",
+        "museum_number": "1864,1007.197",
+        "object_name": "alabastron",
+        "production_date": "470BC (circa)",
+        "chunk_type": "context",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_8/01b0a822_0538_447f_9508_a3bf008fb870/preview_00493068_001.jpg",
+        "culture": "Attic",
+        "object_group": "alabastron"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Pottery: red-figured alabastron: two Nikai.",
+      "Object type: alabastron (object name)\nMuseum number: 1864,1007.197\nCulture: Attic\nProduction date: 470BC (circa)\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Fikellura grave 193\nMaterials: pottery\nWare: Red Figure\nTechnique: painted\nDimensions: 17.78 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 51)\nDept: Greek and Roman",
+      "Curators Comments: Attributed to Fikellura grave 193, based on evidence from Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Alabastron \u2013 earthenware \u2013 red figure \u2013 on black ground \u2013 winged female (1 entire). No marking of grave number visible on the object itself. Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nProducer name: Attributed to: The Painter of the Yale Lekythos\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Friday 18 March 1864\nBib references: Vase / Catalogue of Vases in the British Museum"
+    ]
+  },
+  {
+    "timestamp": "2026-05-15T18:44:54.700920",
+    "museum_number": "1864,1007.197",
+    "object_name": "alabastron",
+    "visitor_question": "Where can I find you?",
+    "response": "I rest quietly within the Department of Greek and Roman Antiquities, specifically in Room G20a, amongst the Greek Vases. You will find me nestled in Display Case 51, where I share a space with my kin, all echoing the vibrant history of Attic pottery. It is a place where the whispers of ancient Greece are carefully preserved for all to witness.",
+    "retrieved_metadata": [
+      {
+        "object_type": "alabastron (object name)",
+        "location": "On display (Room G20a - Greek Vases, Display Case 51)",
+        "production_date": "470BC (circa)",
+        "materials": "pottery",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_8/01b0a822_0538_447f_9508_a3bf008fb870/preview_00493068_001.jpg",
+        "culture": "Attic",
+        "museum_number": "1864,1007.197",
+        "object_name": "alabastron",
+        "chunk_type": "core_facts",
+        "object_group": "alabastron"
+      },
+      {
+        "materials": "pottery",
+        "chunk_type": "description",
+        "museum_number": "1864,1007.197",
+        "culture": "Attic",
+        "production_date": "470BC (circa)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_8/01b0a822_0538_447f_9508_a3bf008fb870/preview_00493068_001.jpg",
+        "object_name": "alabastron",
+        "object_type": "alabastron (object name)",
+        "object_group": "alabastron",
+        "location": "On display (Room G20a - Greek Vases, Display Case 51)"
+      },
+      {
+        "production_date": "470BC (circa)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_8/01b0a822_0538_447f_9508_a3bf008fb870/preview_00493068_001.jpg",
+        "culture": "Attic",
+        "object_type": "alabastron (object name)",
+        "location": "On display (Room G20a - Greek Vases, Display Case 51)",
+        "object_name": "alabastron",
+        "materials": "pottery",
+        "chunk_type": "context",
+        "museum_number": "1864,1007.197",
+        "object_group": "alabastron"
+      }
+    ],
+    "retrieved_chunks": [
+      "Object type: alabastron (object name)\nMuseum number: 1864,1007.197\nCulture: Attic\nProduction date: 470BC (circa)\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Fikellura grave 193\nMaterials: pottery\nWare: Red Figure\nTechnique: painted\nDimensions: 17.78 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 51)\nDept: Greek and Roman",
+      "Description: Pottery: red-figured alabastron: two Nikai.",
+      "Curators Comments: Attributed to Fikellura grave 193, based on evidence from Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Alabastron \u2013 earthenware \u2013 red figure \u2013 on black ground \u2013 winged female (1 entire). No marking of grave number visible on the object itself. Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nProducer name: Attributed to: The Painter of the Yale Lekythos\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Friday 18 March 1864\nBib references: Vase / Catalogue of Vases in the British Museum"
+    ]
+  }
+]

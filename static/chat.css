@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+textarea, button {
+  width: 100%;
+  margin-top: 10px;
+  padding: 12px;
+  font-size: 16px;
+}
+
+button {
+  cursor: pointer;
+  background: #8b2f00;
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
+
+.card {
+  margin-top: 24px;
+  padding: 20px;
+  background: #f3f3f3;
+  border-radius: 12px;
+}
+
+img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: contain;
+  border-radius: 12px;
+  margin-bottom: 16px;
+}
+
+.visitor {
+  background: #fff;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.object {
+  background: #8b2f00;
+  color: white;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 18px;
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dated Discover</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='base.css') }}">
+</head>
+<body>
+  <h1>Dated Object Chat</h1>
+
+  <div class="card">
+    <h2>{{ selected_object.object_name }}</h2>
+
+    {% if selected_object.image %}
+      <img src="{{ selected_object.image }}" alt="{{ selected_object.object_name }}">
+    {% endif %}
+
+    <div class="details">
+      <p>Origin | {{ selected_object.culture }}</p>
+      <p>Findspot | {{ selected_object.location }}</p>
+    </div>
+
+    <div class="buttons">
+      <a href="/">
+        <button class="circle-button">DISCOVER<br>MORE</button>
+      </a>
+
+      <a href="/chat?museum_number={{ selected_object.museum_number }}">
+        <button class="circle-button">START<br>A CHAT</button>
+      </a>
+    </div>
+  </div>
+</body>
+</html>

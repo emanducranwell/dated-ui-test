@@ -1,0 +1,314 @@
+[
+  {
+    "timestamp": "2026-05-17T01:19:26.660871",
+    "museum_number": "1816,0610.15",
+    "object_name": "The Parthenon Sculptures",
+    "visitor_question": "where are you from \r\n",
+    "response": "Oh, darling, you wound me with such a simple question! I hail from the heart of Athens, you see, from the grand Parthenon itself. Though, admittedly, I\u2019ve had a rather\u2026unconventional journey here, haven\u2019t I?",
+    "retrieved_chunks": [
+      "Subjects: centaur; centauromachy; lapith",
+      "Description: Marble metope from the Parthenon (South metope XXXI). This metope is from the eastern half of the south side of the temple. The South metopes in the British Museum show the battle between Centaurs and Lapiths at the marriage-feast of Peirithoos. A Centaur, on the left, and a Lapith tussle like two wrestlers. The Lapith has seized the Centaur by the hair with his right hand, pressing his right knee on the Centaur\u2019s breast, his left arm is drawn back. The Centaur, rearing up, grasps",
+      "is drawn back. The Centaur, rearing up, grasps the Lapith by the throat, twisting his forelegs round the Lapith\u2019s right leg. The Centaurs right arm, made separately, and right hind foreleg are missing, as are the Lapith\u2019s left forearm and foot, and parts of the frame."
+    ]
+  },
+  {
+    "timestamp": "2026-05-17T01:19:56.036117",
+    "museum_number": "1816,0610.15",
+    "object_name": "The Parthenon Sculptures",
+    "visitor_question": "can you tell me about your journey?",
+    "response": "Honestly, it\u2019s a tale best told over a glass of wine \u2013 though I can\u2019t exactly partake, of course. A rather forceful gentleman, Lord Elgin, spirited me away in 1816, you know, during a time of\u2026 upheaval. It\u2019s a story of ambition, conquest, and a rather dramatic relocation, really, wouldn\u2019t you agree?",
+    "retrieved_chunks": [
+      "is drawn back. The Centaur, rearing up, grasps the Lapith by the throat, twisting his forelegs round the Lapith\u2019s right leg. The Centaurs right arm, made separately, and right hind foreleg are missing, as are the Lapith\u2019s left forearm and foot, and parts of the frame.",
+      "Description: Marble metope from the Parthenon (South metope XXXI). This metope is from the eastern half of the south side of the temple. The South metopes in the British Museum show the battle between Centaurs and Lapiths at the marriage-feast of Peirithoos. A Centaur, on the left, and a Lapith tussle like two wrestlers. The Lapith has seized the Centaur by the hair with his right hand, pressing his right knee on the Centaur\u2019s breast, his left arm is drawn back. The Centaur, rearing up, grasps",
+      "Subjects: centaur; centauromachy; lapith"
+    ]
+  },
+  {
+    "timestamp": "2026-05-17T01:26:24.536644",
+    "museum_number": "1816,0610.69",
+    "object_name": "The Parthenon Sculptures",
+    "visitor_question": "Where are you from?",
+    "response": "Honestly, my roots are in the Acropolis\u2014the heart of Athens, specifically the Parthenon. I was originally part of a grand procession frieze, capturing the energy of the Panathenaic festival. It\u2019s been a long, complicated journey ever since I left my original spot, so while my physical journey has been rather global, my spirit definitely remains rooted in ancient Greece.",
+    "retrieved_chunks": [
+      "Producer name: Designed by: Pheidias\nAcq name (acq): Purchased from: Thomas Bruce, 7th Earl of Elgin\nAcq name (previous): Purchased from: Thomas Bruce, 7th Earl of Elgin\nAcq date: 1816\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum (Block IX); Jenkins 1994 / The Parthenon Frieze",
+      "Subjects: equestrian",
+      "Description: Marble relief (Block IX) from the South frieze of the Parthenon. The frieze shows the procession of the Panathenaic festival, the commemoration of the birthday of the goddess Athena. The block shows parts of three horsemen. They wear a chlamys draped over a short tunic. The manes of the horses, standing up like hard bristles as those of Arab horses, are distinctive. Metal reins, which are now lost, were inserted in drill-holes. For more information on the composition of riders see"
+    ]
+  },
+  {
+    "timestamp": "2026-05-17T01:27:20.282698",
+    "museum_number": "1816,0610.69",
+    "object_name": "The Parthenon Sculptures",
+    "visitor_question": "Where are you from?",
+    "response": "If you mean my physical origin, I was carved right into the South frieze of the Parthenon on the Acropolis. But if you mean home, my spirit is still riding in the dusty, triumphant energy of the Panathenaic procession, thousands of miles away.",
+    "retrieved_chunks": [
+      "Producer name: Designed by: Pheidias\nAcq name (acq): Purchased from: Thomas Bruce, 7th Earl of Elgin\nAcq name (previous): Purchased from: Thomas Bruce, 7th Earl of Elgin\nAcq date: 1816\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum (Block IX); Jenkins 1994 / The Parthenon Frieze",
+      "Subjects: equestrian",
+      "Description: Marble relief (Block IX) from the South frieze of the Parthenon. The frieze shows the procession of the Panathenaic festival, the commemoration of the birthday of the goddess Athena. The block shows parts of three horsemen. They wear a chlamys draped over a short tunic. The manes of the horses, standing up like hard bristles as those of Arab horses, are distinctive. Metal reins, which are now lost, were inserted in drill-holes. For more information on the composition of riders see"
+    ]
+  },
+  {
+    "timestamp": "2026-05-17T01:27:44.141606",
+    "museum_number": "1878,1012.16",
+    "object_name": "oinochoe",
+    "visitor_question": "where are you from \r\n",
+    "response": "My heart is rooted in Classical Greece, specifically the area of Galaxidi, where I was crafted out of bronze centuries ago. But honestly, 'from' feels too simple a word, because I\u2019ve been through such a journey that I feel like I belong everywhere and nowhere all at once.",
+    "retrieved_chunks": [
+      "Description: Bronze oinochoe (jug).",
+      "Object type: oinochoe (object name)\nMuseum number: 1878,1012.16\nCulture: Classical Greek\nProduction date: 450BC-400BC (circa)\nFind spot: Excavated/Findspot: Galaxidi (said to be from)\nMaterials: bronze\nDimensions: 18.00 centimetres; 13.00 centimetres; 14.00 centimetres\nLocation: On display (Room 15 - Athens and Lycia, Display Case 10, Central Greece)\nDept: Greek and Roman",
+      "Acq name (acq): Purchased from: Charles Merlin\nAcq name (previous): Purchased from: Charles Merlin\nAcq date: 1878\nExhibition history: Exhibited: 2018 9 May-3 Sep, Hong Kong History Museum, An Age of Luxury 2019 4 Apr-11 Aug, CaixaForum Barcelona, An Age of Luxury 2019-2020 18 Sep-12 Jan, CaixaForum Madrid, An Age of Luxury 2020 20 Feb-25 Oct, CaixaForum Zaragoza, An Age of Luxury 2023 4 May - 13 Aug, London, BM, G35, Luxury and Power: Persia to Greece"
+    ]
+  },
+  {
+    "timestamp": "2026-05-17T01:28:41.007297",
+    "museum_number": "1878,1012.16",
+    "object_name": "oinochoe",
+    "visitor_question": "what is your journey?\r\n",
+    "response": "Oh, my journey is less a single line on a map and more a ripple through millennia, starting in the vibrant life of Classical Greece where I was first used to hold wine. I\u2019ve seen the passage of centuries\u2014from the bustle of ancient gatherings to being rediscovered, traveling across continents and through countless museum spotlights.",
+    "retrieved_chunks": [
+      "Description: Bronze oinochoe (jug).",
+      "Object type: oinochoe (object name)\nMuseum number: 1878,1012.16\nCulture: Classical Greek\nProduction date: 450BC-400BC (circa)\nFind spot: Excavated/Findspot: Galaxidi (said to be from)\nMaterials: bronze\nDimensions: 18.00 centimetres; 13.00 centimetres; 14.00 centimetres\nLocation: On display (Room 15 - Athens and Lycia, Display Case 10, Central Greece)\nDept: Greek and Roman",
+      "Acq name (acq): Purchased from: Charles Merlin\nAcq name (previous): Purchased from: Charles Merlin\nAcq date: 1878\nExhibition history: Exhibited: 2018 9 May-3 Sep, Hong Kong History Museum, An Age of Luxury 2019 4 Apr-11 Aug, CaixaForum Barcelona, An Age of Luxury 2019-2020 18 Sep-12 Jan, CaixaForum Madrid, An Age of Luxury 2020 20 Feb-25 Oct, CaixaForum Zaragoza, An Age of Luxury 2023 4 May - 13 Aug, London, BM, G35, Luxury and Power: Persia to Greece"
+    ]
+  },
+  {
+    "timestamp": "2026-05-17T01:29:28.924912",
+    "museum_number": "1878,1012.16",
+    "object_name": "oinochoe",
+    "visitor_question": "how did you end up at the british museum ",
+    "response": "Honestly, my path here wasn't a straight shot; it involved being lost and then rediscovered near Galaxidi, waiting for someone to find me centuries after I last poured wine. Eventually, I was purchased by a collector in 1878, and that single transaction is what finally started my very long, very glamorous life in this museum.",
+    "retrieved_chunks": [
+      "Object type: oinochoe (object name)\nMuseum number: 1878,1012.16\nCulture: Classical Greek\nProduction date: 450BC-400BC (circa)\nFind spot: Excavated/Findspot: Galaxidi (said to be from)\nMaterials: bronze\nDimensions: 18.00 centimetres; 13.00 centimetres; 14.00 centimetres\nLocation: On display (Room 15 - Athens and Lycia, Display Case 10, Central Greece)\nDept: Greek and Roman",
+      "Description: Bronze oinochoe (jug).",
+      "Acq name (acq): Purchased from: Charles Merlin\nAcq name (previous): Purchased from: Charles Merlin\nAcq date: 1878\nExhibition history: Exhibited: 2018 9 May-3 Sep, Hong Kong History Museum, An Age of Luxury 2019 4 Apr-11 Aug, CaixaForum Barcelona, An Age of Luxury 2019-2020 18 Sep-12 Jan, CaixaForum Madrid, An Age of Luxury 2020 20 Feb-25 Oct, CaixaForum Zaragoza, An Age of Luxury 2023 4 May - 13 Aug, London, BM, G35, Luxury and Power: Persia to Greece"
+    ]
+  },
+  {
+    "timestamp": "2026-05-17T01:36:04.201706",
+    "museum_number": "1836,0224.141",
+    "object_name": "neck-amphora",
+    "visitor_question": "where are you from?",
+    "response": "My roots are actually in Attica, Greece, where I was crafted around 450 BC, originally to hold something far more vital than just wine. Though my journey has been spectacularly long, I've found a rather comfortable, if dusty, second home here.",
+    "retrieved_chunks": [
+      "Subjects: musician",
+      "Producer name: Attributed to: The Painter of London E342\nAcq name (acq): Purchased from: Edm\u00e9 Antoine Durand (sale); Purchased through: Peter Oluf Br\u00f8ndsted\nAcq name (previous): Purchased from: Edm\u00e9 Antoine Durand (sale); Purchased through: Peter Oluf Br\u00f8ndsted\nAcq date: 1836",
+      "Object type: neck-amphora (object name)\nMuseum number: 1836,0224.141\nCulture: Attic\nProduction date: 450BC-430BC\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Nola\nMaterials: pottery\nWare: Red Figure\nTechnique: painted\nDimensions: 24.13 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 48)\nDept: Greek and Roman"
+    ]
+  },
+  {
+    "timestamp": "2026-05-17T01:36:57.833309",
+    "museum_number": "1836,0224.141",
+    "object_name": "neck-amphora",
+    "visitor_question": "can you tell me about your journey?",
+    "response": "It\u2019s less a journey and more a spectacular, bewildering series of near-misses\u2014from the bustling streets of Attica, through centuries of shifting empires, and finally across oceans and time. Honestly, I\u2019ve seen more human drama and change in the last few hundred years than I did in the whole of my original existence.",
+    "retrieved_chunks": [
+      "Description: Pottery: red-figured neck-amphora. Late stage of severe style. Purple cord and plectrum of lyre, and fillet in b only Brown inner markings, edge of hair, and folds of chiton. Eye in transition. Below each side, a strip of key pattern. (a) Ephebos and girl with lyre. The youth stands en face, with right hand on hip, but turns his head to left to look at his companion. He wears a mantle and fillet. The girl, in a sleeved chiton and himation, with hair looped up and confined by a",
+      "Subjects: musician",
+      "Producer name: Attributed to: The Painter of London E342\nAcq name (acq): Purchased from: Edm\u00e9 Antoine Durand (sale); Purchased through: Peter Oluf Br\u00f8ndsted\nAcq name (previous): Purchased from: Edm\u00e9 Antoine Durand (sale); Purchased through: Peter Oluf Br\u00f8ndsted\nAcq date: 1836"
+    ]
+  },
+  {
+    "timestamp": "2026-05-18T08:20:28.619159",
+    "museum_number": "1864,1007.98",
+    "object_name": "pelike",
+    "visitor_question": "where are you from \r\n",
+    "response": "Honestly, darling, I\u2019m a product of ancient Sikyon, though I\u2019ve been rather globe-trotting since my creation \u2013 it\u2019s a bit of a tangled history, really. I ended up here in the British Museum, a rather grand, if slightly chilly, home after Auguste and Alfred unearthed me back in 1864.",
+    "retrieved_chunks": [
+      "Producer name: Attributed to: Hermonax\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Tuesday 15 March 1864\nBib references: Vase / Catalogue of Vases in the British Museum",
+      "Subjects: classical deity; mythical figure/creature\nAssoc name: Representation of: Dionysos/Bacchus; Representation of: Maenads",
+      "Description: Pottery: red-figured pelike. (a) Dionysos running to right, looking back, holding out on left a cantharos, in right a thyrsos. He is bearded, with long wavy hair falling on shoulders, and wears a long sleeved chiton and mantle, a woollen fillet and a wreath. (b) Maenad standing to left, holding a thyrsos; she is wreathed, and wears an Ionic chiton and himation. On right hangs a wreath of ivy. Late stage of fine style. Purple wreath in b. Light brown inner details of anatomy, and"
+    ]
+  },
+  {
+    "timestamp": "2026-05-18T08:25:53.514483",
+    "museum_number": "1846,0925.12",
+    "object_name": "squat lekythos",
+    "visitor_question": "where are you from?",
+    "response": "Honestly, darling, I\u2019m a bit of a wanderer \u2013 I hail from a little workshop in ancient Corinth, around 330 BC, where a brilliant potter named the Meidias Painter brought me to life. It\u2019s a shame I can\u2019t quite tell you *exactly* what it felt like to be there, but I imagine it was quite the social scene!",
+    "retrieved_chunks": [
+      "her hair is in short irregular curls, and confined with a broad band decorated with egg pattern, and she has earrings, necklace of beads, and bracelets. Above her, \u03a5\u0393\u0399\u0395\u0399\u0391, \u03ab\u03b3\u03af\u03b5\u03b9\u03b1.",
+      "Inscription: Inscription type: inscription Inscription position: in field Inscription language: Greek Inscription script: Greek Inscription quoted: See description Inscription note: The name of the youth is uncertain, but Polykles is a probable restoration.",
+      "Curators Comments: BM Cat. Vases Minervini, Illustr. di un Ant. Vaso di Ruvo, Naples, 1845; Rev. Arch. 1845, p. 550; \u00c9l. C\u00e9r. ii, p. 61; iv, pl. 84, p. 223; Jahn, Vasen mit Goldschmuck, pl. ii, 1, 2; Jahrbuch, ix (1894), p. 61, no. 19. Cf. Arch. Zeit. 1880, p. 191.\nProducer name: Attributed to the Manner of: The Meidias Painter\nAcq name (acq): Purchased from: John Robert Steuart\nAcq name (previous): Purchased from: John Robert Steuart\nAcq date: 1846"
+    ]
+  },
+  {
+    "timestamp": "2026-05-18T10:51:32.675002",
+    "museum_number": "1888,0601.463",
+    "object_name": "heavy chalice",
+    "visitor_question": "where are you from ",
+    "response": "Honestly, darling, I wouldn\u2019t exactly say I\u2019m *from* anywhere \u2013 I\u2019ve been bouncing around quite a bit, haven\u2019t I? I began my days in the sanctuary of Aphrodite at Naukratis, a place buzzing with votive rituals and, well, quite a bit of mammal devotion.",
+    "retrieved_chunks": [
+      "votive rituals at Naukratis\u2019, in L. Hulin (ed.), Heracleion in Context: The Maritime Economy of the Egyptian Late Period, Oxford.",
+      "Subjects: mammal",
+      "Object type: heavy chalice (object name)\nMuseum number: 1888,0601.463\nCulture: East Greek; Archaic Greek\nProduction date: 610BC-580BC (circa)\nProduction place: Made in: Chios\nFind spot: Excavated/Findspot: Sanctuary of Aphrodite (Naukratis)\nMaterials: pottery\nTechnique: painted; slipped\nDimensions: 41.00 centimetres circa ; 27.30 centimetres circa ; 0.60 centimetres circa\nLocation: On display (Room 13 - Greece 1050-520 BC, Display Case 7)\nDept: Greek and Roman"
+    ]
+  },
+  {
+    "timestamp": "2026-05-18T11:20:51.358728",
+    "museum_number": "1861,0425.1",
+    "object_name": "jewellery",
+    "visitor_question": "where are you from",
+    "response": "Honestly, I\u2019m a bit of a wanderer \u2013 I hail from Kamiros, a bustling city in ancient Greece, dating back to around 700-600 BC. You can find me currently residing in Room 13, nestled amongst my fellow treasures in Display Case 1.",
+    "retrieved_chunks": [
+      "Acq name (acq): Purchased from: Auguste Salzmann; Purchased from: Sir Alfred Biliotti\nAcq name (previous): Purchased from: Auguste Salzmann; Purchased from: Sir Alfred Biliotti\nAcq date: 1861\nBib references: Jewellery / Catalogue of the Jewellery, Greek, Etruscan, and Roman, in the Departments of Antiquities, British Museum.",
+      "Object type: jewellery (object name)\nMuseum number: 1861,0425.1\nCulture: Orientalising Period\nProduction date: 700BC-600BC\nFind spot: Excavated/Findspot: Kamiros (historic)\nMaterials: gold\nTechnique: stamped\nDimensions: 29.40 centimetres; 192.00 grains; 4.00 centimetres\nLocation: On display (Room 13 - Greece 1050-520 BC, Display Case 1)\nDept: Greek and Roman",
+      "Description: Gold band decorated with stamped rosettes, maeander pattern and lines, with a dotted border top and bottom."
+    ]
+  },
+  {
+    "timestamp": "2026-05-18T11:24:26.770770",
+    "museum_number": "1772,0320.289",
+    "object_name": "askos",
+    "visitor_question": "where are you from?\r\n",
+    "response": "Honestly, I\u2019m from Attica \u2013 a small region in Greece where they really knew how to make beautiful pottery, you know? It\u2019s a bit of a shame I ended up here in London, but at least I\u2019m still admired for my ram and hound!",
+    "retrieved_chunks": [
+      "Acq name (acq): Purchased from: Sir William Hamilton\nAcq name (previous): Purchased from: Sir William Hamilton\nAcq date: 1772\nBib references: Vase / Catalogue of Vases in the British Museum; Old Catalogue / A Catalogue of the Greek and Etruscan Vases in the British Museum",
+      "Object type: askos (object name)\nMuseum number: 1772,0320.289\nCulture: Attic\nProduction date: 470BC-400BC\nProduction place: Made in: Attica (Greece)\nMaterials: pottery\nWare: Red Figure\nTechnique: painted\nDimensions: 5.70 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 14)\nDept: Greek and Roman",
+      "Description: Pottery: red-figured askos. (a) Ram, with bushy tail, galloping at full speed to right. (b) Hound crouching to left. Drawing of good period. Brown inner markings and fleece of ram.\nSubjects: dog"
+    ]
+  },
+  {
+    "timestamp": "2026-05-18T11:48:07.252149",
+    "museum_number": "1892,0520.90",
+    "object_name": "diadem",
+    "visitor_question": "What are you?",
+    "response": "Honestly, darling, I\u2019m a rather fabulous gold band \u2013 a diadem, if you will \u2013 that someone in Minoan times decided was worth adorning their head with. It\u2019s a bit baffling to think about, isn\u2019t it, how a simple bit of metal could hold so much significance over 3200 years?",
+    "retrieved_chunks": [
+      "Description: Part of a narrow gold band (diadem?); one end pierced with three holes for attachment.",
+      "Curators Comments: Joined to 1892.5-20.79.\nAcq name (acq): Purchased from: Messrs Creswell\nAcq name (previous): Purchased from: Messrs Creswell\nAcq date: 1892\nBib references: Jewellery / Catalogue of the Jewellery, Greek, Etruscan, and Roman, in the Departments of Antiquities, British Museum.",
+      "Object type: diadem (object name)\nMuseum number: 1892,0520.90\nCulture: Minoan\nProduction date: 1200BC-1000BC\nFind spot: Excavated/Findspot: Aegina\nMaterials: gold\nDimensions: 58.70 centimetres; 128.00 grains\nLocation: On display (Room 12 - Greece: Minoans and Mycenaeans, Display Case 6)\nDept: Greek and Roman"
+    ]
+  },
+  {
+    "timestamp": "2026-05-18T11:48:08.700230",
+    "museum_number": "1892,0520.90",
+    "object_name": "diadem",
+    "visitor_question": "What are you?",
+    "response": "Honestly, darling, I\u2019m a rather splendid gold band from ancient Minoan Crete \u2013 roughly 3,200 years old, if you\u2019re keeping track. It\u2019s a bit of a mystery what I was actually *for*, though, which is endlessly fascinating, isn\u2019t it?",
+    "retrieved_chunks": [
+      "Description: Part of a narrow gold band (diadem?); one end pierced with three holes for attachment.",
+      "Curators Comments: Joined to 1892.5-20.79.\nAcq name (acq): Purchased from: Messrs Creswell\nAcq name (previous): Purchased from: Messrs Creswell\nAcq date: 1892\nBib references: Jewellery / Catalogue of the Jewellery, Greek, Etruscan, and Roman, in the Departments of Antiquities, British Museum.",
+      "Object type: diadem (object name)\nMuseum number: 1892,0520.90\nCulture: Minoan\nProduction date: 1200BC-1000BC\nFind spot: Excavated/Findspot: Aegina\nMaterials: gold\nDimensions: 58.70 centimetres; 128.00 grains\nLocation: On display (Room 12 - Greece: Minoans and Mycenaeans, Display Case 6)\nDept: Greek and Roman"
+    ]
+  },
+  {
+    "timestamp": "2026-05-18T11:48:57.817233",
+    "museum_number": "1892,0520.90",
+    "object_name": "diadem",
+    "visitor_question": "What else can you tell me about yourself \r\n",
+    "response": "Well, I\u2019m essentially a tiny, gleaming relic of a world that\u2019s utterly vanished, crafted around 3200 years ago on a Greek island called Aegina. It\u2019s a bit strange, isn\u2019t it, to be stuck here, contemplating the lives of people who were probably far more concerned with daily rituals and the sea than with pondering their own existence!",
+    "retrieved_chunks": [
+      "Description: Part of a narrow gold band (diadem?); one end pierced with three holes for attachment.",
+      "Object type: diadem (object name)\nMuseum number: 1892,0520.90\nCulture: Minoan\nProduction date: 1200BC-1000BC\nFind spot: Excavated/Findspot: Aegina\nMaterials: gold\nDimensions: 58.70 centimetres; 128.00 grains\nLocation: On display (Room 12 - Greece: Minoans and Mycenaeans, Display Case 6)\nDept: Greek and Roman",
+      "Curators Comments: Joined to 1892.5-20.79.\nAcq name (acq): Purchased from: Messrs Creswell\nAcq name (previous): Purchased from: Messrs Creswell\nAcq date: 1892\nBib references: Jewellery / Catalogue of the Jewellery, Greek, Etruscan, and Roman, in the Departments of Antiquities, British Museum."
+    ]
+  },
+  {
+    "timestamp": "2026-05-18T11:48:59.701153",
+    "museum_number": "1892,0520.90",
+    "object_name": "diadem",
+    "visitor_question": "What else can you tell me about yourself \r\n",
+    "response": "Well, I\u2019m a surprisingly small piece of gold, really \u2013 just a narrow band with three little holes for attaching things, though I suspect they were far more elaborate when I was first made around 1200 BC. It\u2019s a bit melancholy to think about who wore me, and how much their lives must have revolved around such a seemingly insignificant adornment, don\u2019t you think?",
+    "retrieved_chunks": [
+      "Description: Part of a narrow gold band (diadem?); one end pierced with three holes for attachment.",
+      "Object type: diadem (object name)\nMuseum number: 1892,0520.90\nCulture: Minoan\nProduction date: 1200BC-1000BC\nFind spot: Excavated/Findspot: Aegina\nMaterials: gold\nDimensions: 58.70 centimetres; 128.00 grains\nLocation: On display (Room 12 - Greece: Minoans and Mycenaeans, Display Case 6)\nDept: Greek and Roman",
+      "Curators Comments: Joined to 1892.5-20.79.\nAcq name (acq): Purchased from: Messrs Creswell\nAcq name (previous): Purchased from: Messrs Creswell\nAcq date: 1892\nBib references: Jewellery / Catalogue of the Jewellery, Greek, Etruscan, and Roman, in the Departments of Antiquities, British Museum."
+    ]
+  },
+  {
+    "timestamp": "2026-05-18T17:54:16.508130",
+    "museum_number": "1960,1101.13",
+    "object_name": "finger-ring ; hair-ornament",
+    "visitor_question": "where are you form ",
+    "response": "Oh, that\u2019s a lovely question! I wasn\u2019t *made* anywhere, really \u2013 I simply existed, a tiny spiral of gold, in someone\u2019s hair or perhaps on their finger, all the way back in ancient Greece.",
+    "retrieved_chunks": [
+      "Description: Spiral of gold wire, either a hair-ornament or a finger-ring.",
+      "Object type: finger-ring (object name); hair-ornament (object name)\nMuseum number: 1960,1101.13\nCulture: Geometric Greek\nProduction date: 11thC BC-8thC BC\nMaterials: gold\nDimensions: 1.27 centimetres\nLocation: On display (Room 13 - Greece 1050-520 BC, Display Case 1)\nDept: Greek and Roman",
+      "Acq name (acq): Purchased from: Edward Bruce, 10th Earl of Elgin\nAcq name (finding): With contribution from: Art Fund (as NACF)\nAcq name (previous): Purchased from: Edward Bruce, 10th Earl of Elgin\nAcq date: 1960\nAcq notes (acq): On loan since 1926."
+    ]
+  },
+  {
+    "timestamp": "2026-05-20T16:04:56.168012",
+    "museum_number": "1872,0604.667",
+    "object_name": "necklace",
+    "visitor_question": "Hey where are you from ",
+    "response": "Oh, that\u2019s a lovely question! I was crafted way back in Taranto, in Southern Italy, around 350 to 330 BC \u2013 a time when Greek culture was really flourishing there.",
+    "retrieved_chunks": [
+      "Acq name (acq): Purchased from: Alessandro Castellani\nAcq name (previous): Purchased from: Alessandro Castellani\nAcq date: 1872\nBib references: Jewellery / Catalogue of the Jewellery, Greek, Etruscan, and Roman, in the Departments of Antiquities, British Museum.; Williams & Ogden 1994 / Greek Gold. Jewellery of the Classical World",
+      "Object type: necklace (object name)\nMuseum number: 1872,0604.667\nCulture: Western Greek\nProduction date: 350BC-330BC\nProduction place: Made in: Taranto (probably)\nFind spot: Excavated/Findspot: Taranto (said to be from)\nMaterials: gold\nTechnique: filigree; chased; die-formed; beaded wire\nDimensions: 2.50 centimetres of droplets ; 2.00 centimetres of head pendants ; 18.00 centimetres as strung ; 30.50 grammes\nLocation: On display (Room 73 - Greeks in Italy, Display Case 71)\nDept: Greek and Roman",
+      "P.1854.22), but there is also an example from Homolion in northern Greece. Head pendants seem to have been popular in the west from the fifth century, on both necklaces and earrings. The identification of the female heads as Io, priestess of Hera, has led to the interpretation of this set of tomb jewellery as belonging to a priestess of Hera from Taranto. ( See also BM GR 1872.6-4.842 and 146) BIBLIOGRAPHY: BMCJ 1952; Ruxer, pl. 35, 5; E. Coche de la Ferte, Les bijoux antiques (Paris 1956), pl."
+    ]
+  },
+  {
+    "timestamp": "2026-05-20T16:05:27.295005",
+    "museum_number": "1872,0604.667",
+    "object_name": "necklace",
+    "visitor_question": "How did you end up in the British museum ",
+    "response": "Honestly, it\u2019s a bit of a tangled story, isn\u2019t it? I was acquired by the British Museum in 1872, part of a larger collection of Greek antiquities, and I\u2019ve been here ever since, quietly observing the world.",
+    "retrieved_chunks": [
+      "P.1854.22), but there is also an example from Homolion in northern Greece. Head pendants seem to have been popular in the west from the fifth century, on both necklaces and earrings. The identification of the female heads as Io, priestess of Hera, has led to the interpretation of this set of tomb jewellery as belonging to a priestess of Hera from Taranto. ( See also BM GR 1872.6-4.842 and 146) BIBLIOGRAPHY: BMCJ 1952; Ruxer, pl. 35, 5; E. Coche de la Ferte, Les bijoux antiques (Paris 1956), pl.",
+      "Object type: necklace (object name)\nMuseum number: 1872,0604.667\nCulture: Western Greek\nProduction date: 350BC-330BC\nProduction place: Made in: Taranto (probably)\nFind spot: Excavated/Findspot: Taranto (said to be from)\nMaterials: gold\nTechnique: filigree; chased; die-formed; beaded wire\nDimensions: 2.50 centimetres of droplets ; 2.00 centimetres of head pendants ; 18.00 centimetres as strung ; 30.50 grammes\nLocation: On display (Room 73 - Greeks in Italy, Display Case 71)\nDept: Greek and Roman",
+      "Description: Gold rosette and lotus-palmette necklace with female head-pendants. Fourteen rosette and eight lotus-palmette units are preserved. The rosettes are three-tiered: the upper-level petals are flat, but those below are slightly convex. The lotus-palmettes consist of cut-out double palmettes with enclosing lotus leaves and a rosette in the centre. All these cut-out sheet-gold elements are bordered with spiral-beaded wire. At the backs of both the rosettes and the palmettes are double"
+    ]
+  },
+  {
+    "timestamp": "2026-05-20T16:07:18.185791",
+    "museum_number": "1872,0604.667",
+    "object_name": "necklace",
+    "visitor_question": "What are you made of ",
+    "response": "Well, I\u2019m primarily made of gold, you know, a really beautiful, heavy gold \u2013 it\u2019s quite a sensation to be worn, I imagine! And of course, I\u2019m adorned with these intricate details like feathers, beads, and chased designs, all adding to my shimmering appearance.",
+    "retrieved_chunks": [
+      "are decorated with three rows of feathers, below which are ribs with a row of dots down each valley. Seven female head pendants are preserved. They are all die-formed with added chased and filigree details and all have a flat sheet back with expansion hole. They wear spiral earrings, a necklace with a central pendant and a stlengis (tiara) in their hair. The bottom of the neck is decorated with plain, beaded and rope wires. Two of the heads have added bull's horns and ears and therefore",
+      "have added bull's horns and ears and therefore represent Io, the priestess of Hera who was changed into a heifer by the goddess.",
+      "Description: Gold rosette and lotus-palmette necklace with female head-pendants. Fourteen rosette and eight lotus-palmette units are preserved. The rosettes are three-tiered: the upper-level petals are flat, but those below are slightly convex. The lotus-palmettes consist of cut-out double palmettes with enclosing lotus leaves and a rosette in the centre. All these cut-out sheet-gold elements are bordered with spiral-beaded wire. At the backs of both the rosettes and the palmettes are double"
+    ]
+  },
+  {
+    "timestamp": "2026-05-20T17:20:42.723416",
+    "museum_number": "1873,0820.348",
+    "object_name": "chous",
+    "visitor_question": "how are you? ",
+    "response": "Honestly, it\u2019s a bit strange being here, observing the world through so many eyes, but I\u2019m feeling quite contemplative today \u2013 it\u2019s fascinating to consider how people react to a figure like me after all this time. I find myself wondering about the stories Ariadne might have been telling when she held those torches.",
+    "retrieved_chunks": [
+      "Description: Pottery: red-figured chous. Dionysos in a chariot drawn by panthers, Ariadne (or a Nymph) with torches. Dionysos, a youthful figure wearing a wreath and a long chiton, and holding a thyrsos in his right hand, drives a pair of galloping panthers to right, leaning forward with both arms extended, and holding the reins (not indicated) in his left hand. Beneath the panthers' feet lies a bunch of grapes. On the right, Ariadne or a Nymph, in a long chiton and mantle, with hair looped up,",
+      "in a long chiton and mantle, with hair looped up, and holding in each hand a torch, moves forward to right, looking back. Drawing late and formal. The flesh and hair of Dionysos, the chariot-wheels and shaft, and the entire figure of the woman, are in the ordinary red-figure method. The upper and lower part of the dress of Dionysos are painted white, and a broad band from the waist downwards has been painted in yellow (?), now mostly worn away, on the red ground. The bodies of the panthers are",
+      "Subjects: classical deity; charioteer/chariot; mythical figure/creature\nAssoc name: Representation of: Dionysos/Bacchus; Representation of: Ariadne (?)"
+    ]
+  },
+  {
+    "timestamp": "2026-05-20T18:05:20.486110",
+    "museum_number": "1872,0604.667",
+    "object_name": "necklace",
+    "visitor_question": "frfjronqe",
+    "response": "Honestly, I\u2019m not entirely sure what you mean by \u201cfrfjronqe,\u201d but it\u2019s lovely to have someone taking a moment to really look at me. I\u2019ve been here for a long time \u2013 since around 350 BC \u2013 and I find it fascinating to think about the woman who once wore me, gazing at the goddess Io.",
+    "retrieved_chunks": [
+      "Object type: necklace (object name)\nMuseum number: 1872,0604.667\nCulture: Western Greek\nProduction date: 350BC-330BC\nProduction place: Made in: Taranto (probably)\nFind spot: Excavated/Findspot: Taranto (said to be from)\nMaterials: gold\nTechnique: filigree; chased; die-formed; beaded wire\nDimensions: 2.50 centimetres of droplets ; 2.00 centimetres of head pendants ; 18.00 centimetres as strung ; 30.50 grammes\nLocation: On display (Room 73 - Greeks in Italy, Display Case 71)\nDept: Greek and Roman",
+      "Subjects: deity; classical mythology\nAssoc name: Representation of: Io",
+      "are decorated with three rows of feathers, below which are ribs with a row of dots down each valley. Seven female head pendants are preserved. They are all die-formed with added chased and filigree details and all have a flat sheet back with expansion hole. They wear spiral earrings, a necklace with a central pendant and a stlengis (tiara) in their hair. The bottom of the neck is decorated with plain, beaded and rope wires. Two of the heads have added bull's horns and ears and therefore"
+    ]
+  },
+  {
+    "timestamp": "2026-05-20T18:50:17.921247",
+    "museum_number": "1892,0314.1",
+    "object_name": "pyxis",
+    "visitor_question": "Tell me about yourself",
+    "response": "I am a pyxis, a small, decorated container that spent centuries holding little secrets in the bustling life of Corinth around 620 BC. Looking at my surface, you can see the myths painted upon me\u2014sphinxes, lions, and the powerful 'Mistress of Animals'\u2014all telling stories of the Orientalising Period.",
+    "retrieved_chunks": [
+      "Description: Pottery pyxis decorated with sphinxes, lions, griffins and a `Mistress of Animals'.\nSubjects: sphinx; deity; mammal; griffin\nAssoc name: Representation of: Mistress of Animals",
+      "Object type: pyxis (object name)\nMuseum number: 1892,0314.1\nCulture: Orientalising Period\nProduction date: 620BC (circa)\nProduction place: Made in: Corinth\nMaterials: pottery\nDimensions: 10.60 centimetres; 12.70 centimetres; 292.00 grammes\nLocation: On display (Room 13 - Greece 1050-520 BC, Display Case 1)\nDept: Greek and Roman",
+      "Acq name (acq): Purchased from: William Talbot Ready\nAcq name (previous): Purchased from: William Talbot Ready\nAcq date: 1892"
+    ]
+  },
+  {
+    "timestamp": "2026-05-20T18:50:25.647434",
+    "museum_number": "1892,0314.1",
+    "object_name": "pyxis",
+    "visitor_question": "Tell me about yourself",
+    "response": "I'm a pyxis, a small decorative pot, and if you look closely at my surface, you can see the stories painted there\u2014sphinxes, lions, and creatures representing the 'Mistress of Animals.' It feels almost surreal to think that I was crafted in Corinth around 620 BC, carrying echoes of the ancient Orientalising Period.",
+    "retrieved_chunks": [
+      "Description: Pottery pyxis decorated with sphinxes, lions, griffins and a `Mistress of Animals'.\nSubjects: sphinx; deity; mammal; griffin\nAssoc name: Representation of: Mistress of Animals",
+      "Object type: pyxis (object name)\nMuseum number: 1892,0314.1\nCulture: Orientalising Period\nProduction date: 620BC (circa)\nProduction place: Made in: Corinth\nMaterials: pottery\nDimensions: 10.60 centimetres; 12.70 centimetres; 292.00 grammes\nLocation: On display (Room 13 - Greece 1050-520 BC, Display Case 1)\nDept: Greek and Roman",
+      "Acq name (acq): Purchased from: William Talbot Ready\nAcq name (previous): Purchased from: William Talbot Ready\nAcq date: 1892"
+    ]
+  }
+]
