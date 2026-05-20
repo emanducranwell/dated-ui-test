@@ -23,7 +23,7 @@ sessions_service = SessionsService(db_path=DB_PATH)
 def discover():
     selected_object = objects_service.get_random()
     sessions_service.record_visit(prior_visit=False)
-    return render_template("discover.html", selected_object=selected_object)
+    return render_template("templates/start/discover.html", selected_object=selected_object)
 
 
 @app.route("/chat", methods=["GET", "POST"])
