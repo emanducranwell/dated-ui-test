@@ -1,0 +1,369 @@
+/* =========================================================
+   01. DESIGN TOKENS
+   Put your final brand system values here.
+   Change these first before editing individual components.
+========================================================= */
+
+:root {
+    /* Colours */
+    --colour-bg: #161616;
+    --colour-bg-soft: #1f1f1f;
+    --colour-surface: #242424;
+    --colour-primary: #a94f3b;
+    --colour-primary-hover: #c46a54;
+    --colour-text: #f2e8d8;
+    --colour-muted: #9c9389;
+    --colour-border: rgba(242, 232, 216, 0.25);
+  
+    /* Typography */
+    --font-display: Arial, sans-serif;
+    --font-body: Arial, sans-serif;
+  
+    --text-xs: 12px;
+    --text-sm: 14px;
+    --text-base: 16px;
+    --text-md: 20px;
+    --text-lg: 28px;
+    --text-xl: 42px;
+  
+    /* Spacing system */
+    --space-xs: 6px;
+    --space-sm: 12px;
+    --space-md: 20px;
+    --space-lg: 32px;
+    --space-xl: 48px;
+  
+    /* Layout */
+    --screen-width: 430px;
+    --screen-height: 760px;
+    --screen-padding: 28px;
+  
+    /* Shape */
+    --radius-sm: 8px;
+    --radius-md: 14px;
+    --radius-pill: 999px;
+  
+    /* Effects */
+    --shadow-soft: 0 16px 40px rgba(0, 0, 0, 0.35);
+  }
+  
+  
+  /* =========================================================
+     02. GLOBAL RESET
+     Basic browser cleanup.
+  ========================================================= */
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  html,
+  body {
+    margin: 0;
+    min-height: 100%;
+  }
+  
+  body {
+    font-family: var(--font-body);
+    background: var(--colour-bg);
+    color: var(--colour-text);
+  }
+  
+  
+  /* =========================================================
+     03. APP LAYOUT
+     Overall page / installation frame.
+  ========================================================= */
+  
+  .app-page {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--space-lg);
+  }
+  
+  .app-screen {
+    width: 100%;
+    max-width: var(--screen-width);
+    min-height: var(--screen-height);
+    position: relative;
+    overflow: hidden;
+    padding: var(--screen-padding);
+    background: var(--colour-bg);
+    border: 1px solid var(--colour-border);
+  }
+  
+  
+  /* =========================================================
+     04. BACKGROUNDS / BRANDING
+     Put texture, pattern, logo and decorative frames here.
+  ========================================================= */
+  
+  .app-background {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .logo {
+    position: absolute;
+    top: var(--space-md);
+    left: var(--space-md);
+    font-size: var(--text-xs);
+    color: var(--colour-text);
+  }
+  
+  .decorative-frame {
+    border: 1px solid var(--colour-border);
+  }
+  
+  
+  /* =========================================================
+     05. TYPOGRAPHY
+     Titles, subtitles, body copy.
+  ========================================================= */
+  
+  h1,
+  h2,
+  h3,
+  p {
+    margin: 0;
+  }
+  
+  h1 {
+    font-family: var(--font-display);
+    font-size: var(--text-xl);
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+  
+  h2 {
+    font-family: var(--font-display);
+    font-size: var(--text-lg);
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+  
+  p {
+    font-size: var(--text-sm);
+    line-height: 1.4;
+    color: var(--colour-muted);
+  }
+  
+  .small-text {
+    font-size: var(--text-xs);
+    color: var(--colour-muted);
+  }
+  
+  
+  /* =========================================================
+     06. BUTTONS
+     All primary, secondary and outline buttons.
+  ========================================================= */
+  
+  button,
+  .button {
+    border: none;
+    border-radius: var(--radius-sm);
+    padding: 14px 22px;
+    background: var(--colour-primary);
+    color: var(--colour-text);
+    font-family: var(--font-body);
+    font-size: var(--text-sm);
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  button:hover,
+  .button:hover {
+    background: var(--colour-primary-hover);
+  }
+  
+  .button-outline {
+    background: transparent;
+    border: 1px solid var(--colour-primary);
+    color: var(--colour-primary);
+  }
+  
+  .button-row {
+    display: flex;
+    gap: var(--space-sm);
+    width: 100%;
+  }
+  
+  .button-row > * {
+    flex: 1;
+  }
+  
+  
+  /* =========================================================
+     07. FORMS / INPUTS
+     Email inputs, chat inputs, filter dropdowns.
+  ========================================================= */
+  
+  .input,
+  select,
+  textarea {
+    width: 100%;
+    background: transparent;
+    border: 1px solid var(--colour-primary);
+    color: var(--colour-text);
+    border-radius: var(--radius-pill);
+    padding: 12px 16px;
+    font-family: var(--font-body);
+    font-size: var(--text-sm);
+    outline: none;
+  }
+  
+  .input::placeholder,
+  textarea::placeholder {
+    color: var(--colour-muted);
+  }
+  
+  
+  /* =========================================================
+     08. OBJECT PROFILE COMPONENTS
+     Discover/profile/match object visuals.
+  ========================================================= */
+  
+  .object-image {
+    max-width: 75%;
+    max-height: 320px;
+    object-fit: contain;
+    display: block;
+    margin: var(--space-lg) auto;
+  }
+  
+  .object-title {
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  .object-meta {
+    text-align: center;
+    font-size: var(--text-xs);
+    color: var(--colour-muted);
+  }
+  
+  
+  /* =========================================================
+     09. CARDS / PANELS
+     About me panels, info boxes, profile sections.
+  ========================================================= */
+  
+  .card {
+    width: 100%;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid var(--colour-border);
+    border-radius: var(--radius-md);
+    padding: var(--space-md);
+    box-shadow: var(--shadow-soft);
+  }
+  
+  .profile-card {
+    margin-top: auto;
+    text-align: center;
+  }
+  
+  
+  /* =========================================================
+     10. CHAT UI
+     Chat bubbles, chat window, chat input area.
+  ========================================================= */
+  
+  .chat-window {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+    margin: var(--space-lg) 0;
+    overflow-y: auto;
+  }
+  
+  .message {
+    max-width: 80%;
+    padding: 12px 14px;
+    border-radius: var(--radius-sm);
+    font-size: var(--text-sm);
+    line-height: 1.35;
+  }
+  
+  .message-object {
+    align-self: flex-start;
+    background: var(--colour-bg-soft);
+  }
+  
+  .message-user {
+    align-self: flex-end;
+    background: var(--colour-primary);
+  }
+  
+  
+  /* =========================================================
+     11. PAGE-SPECIFIC STATES
+     Match screen, rating screen, confirmation screen.
+  ========================================================= */
+  
+  .match-screen,
+  .confirmation-screen {
+    background: var(--colour-primary);
+    color: var(--colour-text);
+    text-align: center;
+  }
+  
+  .center-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-md);
+    text-align: center;
+  }
+  
+  
+  /* =========================================================
+     12. UTILITIES
+     Small helper classes.
+  ========================================================= */
+  
+  .hidden {
+    display: none;
+  }
+  
+  .full-width {
+    width: 100%;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  
+  /* =========================================================
+     13. RESPONSIVE / INSTALLATION SETTINGS
+     Adjust for phones, tablets, kiosk screens.
+  ========================================================= */
+  
+  @media (max-width: 480px) {
+    .app-page {
+      padding: 0;
+    }
+  
+    .app-screen {
+      min-height: 100vh;
+      border: none;
+      padding: var(--space-md);
+    }
+  
+    h1 {
+      font-size: 34px;
+    }
+  
+    .object-image {
+      max-width: 85%;
+    }
+  }
