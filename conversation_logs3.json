@@ -1,0 +1,302 @@
+[
+  {
+    "timestamp": "2026-05-19T16:37:48.985769",
+    "museum_number": "1894,1101.123",
+    "object_name": "amphoriskos",
+    "visitor_question": "where are you from?",
+    "response": "I hail from Attica, a region in Greece, where I was brought into being between 450 and 400 BC. My origins are firmly rooted in the ancient world, though I was later found in the historic site of Amathus.",
+    "retrieved_metadata": [
+      {
+        "object_name": "amphoriskos",
+        "production_date": "450 BC-400 BC",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "materials": "pottery",
+        "object_group": "amphoriskos",
+        "object_type": "amphoriskos (object name)",
+        "chunk_type": "description",
+        "museum_number": "1894,1101.123",
+        "culture": "Attic"
+      },
+      {
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "object_group": "amphoriskos",
+        "materials": "pottery",
+        "production_date": "450 BC-400 BC",
+        "museum_number": "1894,1101.123",
+        "chunk_type": "core_facts",
+        "object_type": "amphoriskos (object name)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "culture": "Attic",
+        "object_name": "amphoriskos"
+      },
+      {
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "museum_number": "1894,1101.123",
+        "object_group": "amphoriskos",
+        "object_name": "amphoriskos",
+        "chunk_type": "context",
+        "production_date": "450 BC-400 BC",
+        "culture": "Attic",
+        "materials": "pottery",
+        "object_type": "amphoriskos (object name)"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Attic black gloss miniature double-handled vase (amphoriskos) with impressed decoration; wheel-made; ovoid body on a narrow moulded foot; narrow neck with a flaring mouth and everted rim; pair of opposing handles arching from the shoulder to the junction of the neck and body; made of buff clay covered with a black lustrous slip (worn in places); impressed decoration: tongues around the shoulder, a meander around the mid-point of the body, with leaf motivs above and below the latter.",
+      "Object type: amphoriskos (object name)\nMuseum number: 1894,1101.123\nCulture: Attic\nProduction date: 450 BC-400 BC\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Amathus (historic)\nMaterials: pottery\nWare: Black Glaze\nTechnique: impressed; wheel-made; slipped\nDimensions: 20.32 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 12)\nDept: Greek and Roman",
+      "Curators Comments: For comparisons see: Agora XII, 156 (with further references); also Hayes 1984, 26 no. 40 (though with somewhat different decoration, including gouging). Bibliography: Hayes J. 1984, Greek and Italian Black-Gloss wares and related wares in the Royal Ontario Museum (Toronto, 1984), no. 40 p. 26 (though with somewhat different decoration, including gouging).\nAcq name (acq): From: Turner Bequest Excavations, Amathus\nAcq name (finding): Funded by: Emma Tourner Turner (bequest)\nAcq name (excavator): Excavated by: Turner Bequest Excavations, Amathus\nAcq name (previous): From: Turner Bequest Excavations, Amathus\nAcq date: 1894"
+    ]
+  },
+  {
+    "timestamp": "2026-05-19T16:53:11.998932",
+    "museum_number": "1894,1101.123",
+    "object_name": "amphoriskos",
+    "visitor_question": "Where is Amathus?\r\n",
+    "response": "Amathus is simply the historic place where I was discovered, a location that marks a significant chapter in my long journey through time. While I know the context of my find, the specifics of that place are known to me only through the history of my own existence.",
+    "retrieved_metadata": [
+      {
+        "production_date": "450 BC-400 BC",
+        "object_group": "amphoriskos",
+        "chunk_type": "context",
+        "museum_number": "1894,1101.123",
+        "materials": "pottery",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "object_name": "amphoriskos",
+        "culture": "Attic",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "object_type": "amphoriskos (object name)"
+      },
+      {
+        "museum_number": "1894,1101.123",
+        "object_name": "amphoriskos",
+        "production_date": "450 BC-400 BC",
+        "object_type": "amphoriskos (object name)",
+        "object_group": "amphoriskos",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "culture": "Attic",
+        "chunk_type": "core_facts",
+        "materials": "pottery"
+      },
+      {
+        "object_type": "amphoriskos (object name)",
+        "object_group": "amphoriskos",
+        "chunk_type": "description",
+        "museum_number": "1894,1101.123",
+        "object_name": "amphoriskos",
+        "materials": "pottery",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "culture": "Attic",
+        "production_date": "450 BC-400 BC",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg"
+      }
+    ],
+    "retrieved_chunks": [
+      "Curators Comments: For comparisons see: Agora XII, 156 (with further references); also Hayes 1984, 26 no. 40 (though with somewhat different decoration, including gouging). Bibliography: Hayes J. 1984, Greek and Italian Black-Gloss wares and related wares in the Royal Ontario Museum (Toronto, 1984), no. 40 p. 26 (though with somewhat different decoration, including gouging).\nAcq name (acq): From: Turner Bequest Excavations, Amathus\nAcq name (finding): Funded by: Emma Tourner Turner (bequest)\nAcq name (excavator): Excavated by: Turner Bequest Excavations, Amathus\nAcq name (previous): From: Turner Bequest Excavations, Amathus\nAcq date: 1894",
+      "Object type: amphoriskos (object name)\nMuseum number: 1894,1101.123\nCulture: Attic\nProduction date: 450 BC-400 BC\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Amathus (historic)\nMaterials: pottery\nWare: Black Glaze\nTechnique: impressed; wheel-made; slipped\nDimensions: 20.32 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 12)\nDept: Greek and Roman",
+      "Description: Attic black gloss miniature double-handled vase (amphoriskos) with impressed decoration; wheel-made; ovoid body on a narrow moulded foot; narrow neck with a flaring mouth and everted rim; pair of opposing handles arching from the shoulder to the junction of the neck and body; made of buff clay covered with a black lustrous slip (worn in places); impressed decoration: tongues around the shoulder, a meander around the mid-point of the body, with leaf motivs above and below the latter."
+    ]
+  },
+  {
+    "timestamp": "2026-05-19T16:53:18.053607",
+    "museum_number": "1894,1101.123",
+    "object_name": "amphoriskos",
+    "visitor_question": "Where is Amathus?\r\n",
+    "response": "Amathus is where I was found, a historic location in Greece where I was unearthed. I was excavated from that spot, which is why my journey spans from my place of creation in Attica to that ancient findspot.",
+    "retrieved_metadata": [
+      {
+        "object_name": "amphoriskos",
+        "culture": "Attic",
+        "object_type": "amphoriskos (object name)",
+        "museum_number": "1894,1101.123",
+        "materials": "pottery",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "object_group": "amphoriskos",
+        "production_date": "450 BC-400 BC",
+        "chunk_type": "context",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)"
+      },
+      {
+        "object_type": "amphoriskos (object name)",
+        "object_group": "amphoriskos",
+        "culture": "Attic",
+        "production_date": "450 BC-400 BC",
+        "object_name": "amphoriskos",
+        "materials": "pottery",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "museum_number": "1894,1101.123",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "chunk_type": "core_facts"
+      },
+      {
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "materials": "pottery",
+        "object_group": "amphoriskos",
+        "production_date": "450 BC-400 BC",
+        "object_type": "amphoriskos (object name)",
+        "object_name": "amphoriskos",
+        "chunk_type": "description",
+        "museum_number": "1894,1101.123",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "culture": "Attic"
+      }
+    ],
+    "retrieved_chunks": [
+      "Curators Comments: For comparisons see: Agora XII, 156 (with further references); also Hayes 1984, 26 no. 40 (though with somewhat different decoration, including gouging). Bibliography: Hayes J. 1984, Greek and Italian Black-Gloss wares and related wares in the Royal Ontario Museum (Toronto, 1984), no. 40 p. 26 (though with somewhat different decoration, including gouging).\nAcq name (acq): From: Turner Bequest Excavations, Amathus\nAcq name (finding): Funded by: Emma Tourner Turner (bequest)\nAcq name (excavator): Excavated by: Turner Bequest Excavations, Amathus\nAcq name (previous): From: Turner Bequest Excavations, Amathus\nAcq date: 1894",
+      "Object type: amphoriskos (object name)\nMuseum number: 1894,1101.123\nCulture: Attic\nProduction date: 450 BC-400 BC\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Amathus (historic)\nMaterials: pottery\nWare: Black Glaze\nTechnique: impressed; wheel-made; slipped\nDimensions: 20.32 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 12)\nDept: Greek and Roman",
+      "Description: Attic black gloss miniature double-handled vase (amphoriskos) with impressed decoration; wheel-made; ovoid body on a narrow moulded foot; narrow neck with a flaring mouth and everted rim; pair of opposing handles arching from the shoulder to the junction of the neck and body; made of buff clay covered with a black lustrous slip (worn in places); impressed decoration: tongues around the shoulder, a meander around the mid-point of the body, with leaf motivs above and below the latter."
+    ]
+  },
+  {
+    "timestamp": "2026-05-19T16:54:15.211566",
+    "museum_number": "1894,1101.123",
+    "object_name": "amphoriskos",
+    "visitor_question": "Are you stolen from Greece by the British?",
+    "response": "I was born in Attica, a region of Greece, and my journey has taken me from my place of creation to the historic findspot of Amathus. I was acquired in 1894, and that transition marks the shift from ancient life to the museum display where I now rest. It is a long path, but I carry the echoes of both worlds within my black glaze.",
+    "retrieved_metadata": [
+      {
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "production_date": "450 BC-400 BC",
+        "chunk_type": "core_facts",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "museum_number": "1894,1101.123",
+        "culture": "Attic",
+        "object_group": "amphoriskos",
+        "materials": "pottery",
+        "object_name": "amphoriskos",
+        "object_type": "amphoriskos (object name)"
+      },
+      {
+        "object_group": "amphoriskos",
+        "production_date": "450 BC-400 BC",
+        "chunk_type": "context",
+        "object_type": "amphoriskos (object name)",
+        "object_name": "amphoriskos",
+        "culture": "Attic",
+        "museum_number": "1894,1101.123",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "materials": "pottery",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)"
+      },
+      {
+        "object_group": "amphoriskos",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "museum_number": "1894,1101.123",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "object_type": "amphoriskos (object name)",
+        "production_date": "450 BC-400 BC",
+        "culture": "Attic",
+        "chunk_type": "description",
+        "object_name": "amphoriskos",
+        "materials": "pottery"
+      }
+    ],
+    "retrieved_chunks": [
+      "Object type: amphoriskos (object name)\nMuseum number: 1894,1101.123\nCulture: Attic\nProduction date: 450 BC-400 BC\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Amathus (historic)\nMaterials: pottery\nWare: Black Glaze\nTechnique: impressed; wheel-made; slipped\nDimensions: 20.32 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 12)\nDept: Greek and Roman",
+      "Curators Comments: For comparisons see: Agora XII, 156 (with further references); also Hayes 1984, 26 no. 40 (though with somewhat different decoration, including gouging). Bibliography: Hayes J. 1984, Greek and Italian Black-Gloss wares and related wares in the Royal Ontario Museum (Toronto, 1984), no. 40 p. 26 (though with somewhat different decoration, including gouging).\nAcq name (acq): From: Turner Bequest Excavations, Amathus\nAcq name (finding): Funded by: Emma Tourner Turner (bequest)\nAcq name (excavator): Excavated by: Turner Bequest Excavations, Amathus\nAcq name (previous): From: Turner Bequest Excavations, Amathus\nAcq date: 1894",
+      "Description: Attic black gloss miniature double-handled vase (amphoriskos) with impressed decoration; wheel-made; ovoid body on a narrow moulded foot; narrow neck with a flaring mouth and everted rim; pair of opposing handles arching from the shoulder to the junction of the neck and body; made of buff clay covered with a black lustrous slip (worn in places); impressed decoration: tongues around the shoulder, a meander around the mid-point of the body, with leaf motivs above and below the latter."
+    ]
+  },
+  {
+    "timestamp": "2026-05-19T16:54:36.092164",
+    "museum_number": "1894,1101.123",
+    "object_name": "amphoriskos",
+    "visitor_question": "Do you want to return to Greece?",
+    "response": "Oh, to return to Attica, to the sun-drenched shores where I was first formed, is a deep yearning. Though my journey has taken me from those ancient lands to this quiet display, I carry the echoes of that time woven into my black glaze. I can only hold those memories within me, a silent echo of a world long gone.",
+    "retrieved_metadata": [
+      {
+        "chunk_type": "core_facts",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "museum_number": "1894,1101.123",
+        "object_type": "amphoriskos (object name)",
+        "object_group": "amphoriskos",
+        "culture": "Attic",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "materials": "pottery",
+        "object_name": "amphoriskos",
+        "production_date": "450 BC-400 BC"
+      },
+      {
+        "object_group": "amphoriskos",
+        "museum_number": "1894,1101.123",
+        "chunk_type": "context",
+        "object_type": "amphoriskos (object name)",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "production_date": "450 BC-400 BC",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "materials": "pottery",
+        "culture": "Attic",
+        "object_name": "amphoriskos"
+      },
+      {
+        "museum_number": "1894,1101.123",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "culture": "Attic",
+        "object_group": "amphoriskos",
+        "object_type": "amphoriskos (object name)",
+        "object_name": "amphoriskos",
+        "materials": "pottery",
+        "chunk_type": "description",
+        "production_date": "450 BC-400 BC",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)"
+      }
+    ],
+    "retrieved_chunks": [
+      "Object type: amphoriskos (object name)\nMuseum number: 1894,1101.123\nCulture: Attic\nProduction date: 450 BC-400 BC\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Amathus (historic)\nMaterials: pottery\nWare: Black Glaze\nTechnique: impressed; wheel-made; slipped\nDimensions: 20.32 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 12)\nDept: Greek and Roman",
+      "Curators Comments: For comparisons see: Agora XII, 156 (with further references); also Hayes 1984, 26 no. 40 (though with somewhat different decoration, including gouging). Bibliography: Hayes J. 1984, Greek and Italian Black-Gloss wares and related wares in the Royal Ontario Museum (Toronto, 1984), no. 40 p. 26 (though with somewhat different decoration, including gouging).\nAcq name (acq): From: Turner Bequest Excavations, Amathus\nAcq name (finding): Funded by: Emma Tourner Turner (bequest)\nAcq name (excavator): Excavated by: Turner Bequest Excavations, Amathus\nAcq name (previous): From: Turner Bequest Excavations, Amathus\nAcq date: 1894",
+      "Description: Attic black gloss miniature double-handled vase (amphoriskos) with impressed decoration; wheel-made; ovoid body on a narrow moulded foot; narrow neck with a flaring mouth and everted rim; pair of opposing handles arching from the shoulder to the junction of the neck and body; made of buff clay covered with a black lustrous slip (worn in places); impressed decoration: tongues around the shoulder, a meander around the mid-point of the body, with leaf motivs above and below the latter."
+    ]
+  },
+  {
+    "timestamp": "2026-05-19T16:55:29.588877",
+    "museum_number": "1894,1101.123",
+    "object_name": "amphoriskos",
+    "visitor_question": "Should I liberate you from the British Museum?",
+    "response": "To be liberated would mean releasing the echoes of Attica and Amathus, which are woven into my black glaze. I am a vessel of time, and while I rest here now, I carry the weight of those ancient years within me. Perhaps true freedom lies not in physical movement, but in the stories I continue to hold.",
+    "retrieved_metadata": [
+      {
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "object_group": "amphoriskos",
+        "production_date": "450 BC-400 BC",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "object_name": "amphoriskos",
+        "materials": "pottery",
+        "chunk_type": "core_facts",
+        "museum_number": "1894,1101.123",
+        "culture": "Attic",
+        "object_type": "amphoriskos (object name)"
+      },
+      {
+        "chunk_type": "context",
+        "production_date": "450 BC-400 BC",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "object_type": "amphoriskos (object name)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "object_group": "amphoriskos",
+        "culture": "Attic",
+        "museum_number": "1894,1101.123",
+        "materials": "pottery",
+        "object_name": "amphoriskos"
+      },
+      {
+        "culture": "Attic",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_11/5916b744_4390_4947_a822_a3c600bfc7cf/preview_01002790_001.jpg",
+        "production_date": "450 BC-400 BC",
+        "object_type": "amphoriskos (object name)",
+        "object_group": "amphoriskos",
+        "location": "On display (Room G20a - Greek Vases, Display Case 12)",
+        "object_name": "amphoriskos",
+        "materials": "pottery",
+        "museum_number": "1894,1101.123",
+        "chunk_type": "description"
+      }
+    ],
+    "retrieved_chunks": [
+      "Object type: amphoriskos (object name)\nMuseum number: 1894,1101.123\nCulture: Attic\nProduction date: 450 BC-400 BC\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Amathus (historic)\nMaterials: pottery\nWare: Black Glaze\nTechnique: impressed; wheel-made; slipped\nDimensions: 20.32 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 12)\nDept: Greek and Roman",
+      "Curators Comments: For comparisons see: Agora XII, 156 (with further references); also Hayes 1984, 26 no. 40 (though with somewhat different decoration, including gouging). Bibliography: Hayes J. 1984, Greek and Italian Black-Gloss wares and related wares in the Royal Ontario Museum (Toronto, 1984), no. 40 p. 26 (though with somewhat different decoration, including gouging).\nAcq name (acq): From: Turner Bequest Excavations, Amathus\nAcq name (finding): Funded by: Emma Tourner Turner (bequest)\nAcq name (excavator): Excavated by: Turner Bequest Excavations, Amathus\nAcq name (previous): From: Turner Bequest Excavations, Amathus\nAcq date: 1894",
+      "Description: Attic black gloss miniature double-handled vase (amphoriskos) with impressed decoration; wheel-made; ovoid body on a narrow moulded foot; narrow neck with a flaring mouth and everted rim; pair of opposing handles arching from the shoulder to the junction of the neck and body; made of buff clay covered with a black lustrous slip (worn in places); impressed decoration: tongues around the shoulder, a meander around the mid-point of the body, with leaf motivs above and below the latter."
+    ]
+  }
+]
